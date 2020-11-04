@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"3XHS":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),u=a("T4bD"),s=a.n(u);t.default=function(){return o.a.createElement("div",{className:s.a.feature},"hello")}},T4bD:function(e,t,a){e.exports={image:"style-module--image--2uvQD",about:"style-module--about--3Izmb"}}}]);
+//# sourceMappingURL=component---src-pages-about-js-f16c6061af5ee6eebbc1.js.map
