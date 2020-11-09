@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"3XHS":function(e,a,t){"use strict";t.r(a);var o=t("q1tI"),n=t.n(o),u=t("mmEP"),m=t.n(u);a.default=function(){return n.a.createElement("div",{className:m.a.feature},"hello")}},mmEP:function(e,a,t){e.exports={image:"about-module--image--2dk75",about:"about-module--about--2y29E"}}}]);
-//# sourceMappingURL=component---src-pages-about-js-839f8881169f382efbcb.js.map
