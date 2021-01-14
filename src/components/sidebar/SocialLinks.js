@@ -3,7 +3,6 @@ import {
     FaLinkedin,
     FaGithubSquare,
     FaStackOverflow,
-    FaFreeCodeCamp,
     FaTwitterSquare
 } from "react-icons/fa"
 import "./sidebar.css"
@@ -28,12 +27,6 @@ const SocialLinks = ({ contacts }) => {
                 href={contacts.stackoverflow}>
                 <span title="Stack Overflow">
                     <FaStackOverflow size={26} style={{ color: "secondary" }} />
-                </span>
-            </a>
-            <a className="text-secondary p-2"
-                href={contacts.freecodecamp}>
-                <span title="freeCodeCamp">
-                    <FaFreeCodeCamp size={26} style={{ color: "secondary" }} />
                 </span>
             </a>
             <a className="text-secondary p-2"
