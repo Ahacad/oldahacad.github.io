@@ -16,6 +16,7 @@ const BlogPost = (props) => {
   const url = `${siteUrl}${props.pageContext.slug}`;
   const tags = post.frontmatter.tags
 
+  { /* 
   const getTechTags = (tags) => {
     const techTags = []
     tags.forEach((tag, i) => {
@@ -26,7 +27,8 @@ const BlogPost = (props) => {
       })
     })
     return techTags
-  }
+  } 
+  */ }
 
   return (
     <Layout>
@@ -41,7 +43,7 @@ const BlogPost = (props) => {
           <div className="mt-3">
             <h2 className="heading">{post.frontmatter.title}</h2>
             <div className="d-block">
-              {getTechTags(tags)}
+              {/*getTechTags(tags)*/}
             </div>
             <br />
             <small><i>Published on </i> {post.frontmatter.date}</small>

@@ -6,77 +6,67 @@ import "./index.css"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Sidebar from "../components/sidebar/Sidebar"
-import TechTag from "../components/tags/TechTag"
 
-const IndexPage = ({ data }) => {
-  const posts = data.allMarkdownRemark.edges
-  const labels = data.site.siteMetadata.labels
-  const currentPage = 1
-  const postsPerPage = 3 // see limit in graphql query below
-  const nextPage = "/" + (currentPage + 1).toString()
-  const hasNextPage = data.allMarkdownRemark.totalCount > postsPerPage
+const ArchivePage = ({ data }) => {
+    const posts = data.allMarkdownRemark.edges
+    const labels = data.site.siteMetadata.labels
 
-  const getTechTags = (tags) => {
-    const techTags = []
-    tags.forEach((tag, i) => {
-      labels.forEach((label) => {
-        if (tag === label.tag) {
-          techTags.push(<TechTag key={i} tag={label.tag} tech={label.tech} name={label.name} size={label.size} color={label.color} />)
-        }
-      })
-    })
-    return techTags
-  }
+    {/*
+    const getTechTags = (tags) => {
+        const techTags = []
+        tags.forEach((tag, i) => {
+            labels.forEach((label) => {
+                if (tag === label.tag) {
+                    techTags.push(<TechTag key={i} tag={label.tag} tech={label.tech} name={label.name} size={label.size} color={label.color} />)
+                }
+            })
+        })
+        return techTags
+    }
+    */}
 
 
-  return (
-    <Layout>
-      <SEO title="Home" keywords={[`gatsby`, `javascript`, `react`, `web development`, `blog`, `graphql`]} />
-      <div className="index-main">
-        <div className="sidebar px-4 py-2">
-          <Sidebar />
-        </div>
-        <div className="post-list-main">
-          {posts.map((post) => {
-            const tags = post.node.frontmatter.tags
-            return (
-              <div key={post.node.id} className="container mt-5">
-                <Link
-                  to={post.node.fields.slug}
-                  className="text-dark"
-                >
-                  <h2 className="title">{post.node.frontmatter.title}</h2>
-                </Link>
-                <small className="d-block text-info"><i>Posted on {post.node.frontmatter.date}</i>
-                </small>
-                <p className="mt-3 d-inline">{post.node.excerpt}</p>
-                <Link
-                  to={post.node.fields.slug}
-                  className="text-primary"
-                >
-                  <small className="d-inline-block ml-3"> Read full post</small>
-                </Link>
-                <div className="d-block">
-                  {getTechTags(tags)}
+    return (
+        <Layout>
+            <SEO title="Archive" keywords={[`gatsby`, `javascript`, `react`, `web development`, `blog`, `graphql`]} />
+            <div className="index-main">
+                <div className="sidebar px-5 py-2">
+                    <Sidebar />
                 </div>
-              </div>
-            )
-          })}
-          {hasNextPage &&
-            <div className="mt-4 text-center">
-              <Link to={nextPage} rel="next" style={{ textDecoration: `none` }}>
-                <span className="text-dark">Next Page →</span>
-              </Link>
+                <div className="post-list-main">
+                    {posts.map((post) => {
+                        const tags = post.node.frontmatter.tags
+                        return (
+                            <div key={post.node.id} className="container mt-5">
+                                <Link
+                                    to={post.node.fields.slug}
+                                    className="text-dark"
+                                >
+                                    <h2 className="title">{post.node.frontmatter.title}</h2>
+                                </Link>
+                                <small className="d-block text-info"><i>Posted on {post.node.frontmatter.date}</i>
+                                </small>
+                                <p className="mt-3 d-inline">{post.node.excerpt}</p>
+                                <Link
+                                    to={post.node.fields.slug}
+                                    className="text-primary"
+                                >
+                                    <small className="d-inline-block ml-3"> Read full post</small>
+                                </Link>
+                                <div className="d-block">
+                                  {/*getTechTags(tags)*/}
+                                </div>
+                            </div>
+                        )
+                    })}
+                </div>
             </div>
-          }
-        </div>
-      </div>
-    </Layout>
-  )
+        </Layout>
+    )
 }
 
 export const pageQuery = graphql`
-         query IndexQuery {
+         query ArchiveQuery {
            site {
              siteMetadata {
                title 
@@ -91,7 +81,7 @@ export const pageQuery = graphql`
              }
            }
            allMarkdownRemark(
-             limit: 3
+             limit: 1000
              sort: { fields: [frontmatter___date], order: DESC }
              filter: { frontmatter: { published: { eq: true } } }
            ) {
@@ -115,5 +105,5 @@ export const pageQuery = graphql`
          }
        `
 
-export default IndexPage
+export default ArchivePage
 
