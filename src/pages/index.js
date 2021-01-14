@@ -24,7 +24,7 @@ const ArchivePage = ({ data }) => {
         return techTags
     }
     */}
-
+    
 
     return (
         <Layout>
