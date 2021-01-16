@@ -6,3 +6,5 @@
 </p>
 
 ## Ahacad's Blog
+
+Anticipation: a blog for 10 years.

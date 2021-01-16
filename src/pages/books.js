@@ -22,6 +22,9 @@ const BookCard = ({bookname, description, image}) => {
 const Books = ({}) => {
   return (
     <>
+    <div className="mt-4 ml-1 w-75 bg-info text-white rounded" style={{opacity: "0.8"}}>
+      <h3 className="p-2" style={{fontFamily: "sans-serif"}}>2021</h3>
+    </div>
     <div className="container pt-5"> 
       <div className="row text-center">
     {

@@ -6,9 +6,39 @@
     "image": "2021/advanced programming in the unix environment.jpg"
   },
   {
+    "name": "computer system a programmer's perspective",
+    "author": "Randal E. Bryant, David R. O'Hallaron",
+    "description": "",
+    "image": "2021/computer system a programmer's perspective.jpg"
+  },
+  {
+    "name": "computer networks a top-down approach",
+    "author": " James F. Kurose, Keith W. Ross",
+    "description": "",
+    "image": "2021/computer networks a top-down approach.jpg"
+  },
+  {
+    "name": "you don't know js - up and going",
+    "author": "Kyle Simpson",
+    "description": "",
+    "image": "2021/you don't know js-up and going.jpg"
+  },
+  {
     "name": "social capital",
     "author": "Nan Lin",
     "description": "",
     "image": "2021/social capital.jpg"
+  },
+  {
+    "name": "visual group theory",
+    "author": "Nathan Carter",
+    "description": "",
+    "image": "2021/visual group theory.jpg"
+  },
+  {
+    "name": "creativity inc",
+    "author": " Ed Catmull, Amy Wallace",
+    "description": "",
+    "image": "2021/creativity inc.jpg"
   }
 ]
