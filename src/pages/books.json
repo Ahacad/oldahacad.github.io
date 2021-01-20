@@ -24,10 +24,16 @@
     "image": "2021/you don't know js-up and going.jpg"
   },
   {
-    "name": "social capital",
-    "author": "Nan Lin",
+    "name": "high performance browser networking",
+    "author": "Ilya Grigorik",
     "description": "",
-    "image": "2021/social capital.jpg"
+    "image": "2021/high performance browser networking.jpg"
+  },
+  {
+    "name": "clean code",
+    "author": "Robert C. Martin",
+    "description": "",
+    "image": "2021/clean code.jpg"
   },
   {
     "name": "visual group theory",
@@ -36,9 +42,33 @@
     "image": "2021/visual group theory.jpg"
   },
   {
+    "name": "social capital",
+    "author": "Nan Lin",
+    "description": "",
+    "image": "2021/social capital.jpg"
+  },
+  {
     "name": "creativity inc",
     "author": " Ed Catmull, Amy Wallace",
     "description": "",
     "image": "2021/creativity inc.jpg"
+  },
+  {
+    "name": "the lean startup",
+    "author": "Eric Ries",
+    "description": "",
+    "image": "2021/the lean startup.jpg"
+  },
+  {
+    "name": "never eat alone",
+    "author": "Keith Ferrazzi, Tahl Raz",
+    "description": "",
+    "image": "2021/never eat alone.jpg"
+  },
+  {
+    "name": "never split the difference",
+    "author": "Chris Voss, Tahl Raz",
+    "description": "",
+    "image": "2021/never split the difference.jpg"
   }
 ]

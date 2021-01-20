@@ -1,0 +1,58 @@
+[
+  {
+    "name": "cowboy bebop",
+    "author": "渡边信一郎",
+    "description": "",
+    "image": "2020/cowboy bebop.webp",
+    "year": 2020
+  },
+  {
+    "name": "パプリカ",
+    "author": "今敏",
+    "description": "",
+    "image": "2020/paprika.webp",
+    "year": 2020
+  },
+  {
+    "name": "新世紀エヴァンゲリオン",
+    "author": " 庵野秀明",
+    "description": "",
+    "image": "2020/evangelion.webp",
+    "year": 2020
+  },
+  {
+    "name": "コードギアス 反逆のルルーシュ",
+    "author": "谷口悟朗",
+    "description": "",
+    "image": "2020/rurusshu.webp",
+    "year": 2020
+  },
+  {
+    "name": "攻殻機動隊",
+    "author": "神山健治",
+    "description": "",
+    "image": "2020/SAC.webp",
+    "year": 2020
+  },
+  {
+    "name": "Memories",
+    "author": "森本晃司",
+    "description": "",
+    "image": "2020/memories.webp",
+    "year": 2020
+  },
+  {
+    "name": "カードキャプターさくら",
+    "author": "浅香守生",
+    "description": "",
+    "image": "2020/sakura.webp",
+    "year": 2020
+  },
+  {
+    "name": "進撃の巨人",
+    "author": "林祐一郎",
+    "description": "",
+    "image": "2021/attack on titan.webp",
+    "year": 2021
+  }
+]

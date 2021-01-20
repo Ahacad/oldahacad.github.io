@@ -7,4 +7,4 @@
 
 ## Ahacad's Blog
 
-Anticipation: a blog for 10 years.
+Anticipation: a blog for 10 years at least, so build it smartly.
