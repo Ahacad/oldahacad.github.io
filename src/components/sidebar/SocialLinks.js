@@ -3,7 +3,8 @@ import {
     FaLinkedin,
     FaGithubSquare,
     FaStackOverflow,
-    FaTwitterSquare
+    FaTwitterSquare,
+    FaRssSquare,
 } from "react-icons/fa"
 import "./sidebar.css"
 
@@ -33,6 +34,12 @@ const SocialLinks = ({ contacts }) => {
                 href={contacts.twitter}>
                 <span title="Twitter">
                     <FaTwitterSquare size={26} style={{ color: "secondary" }} />
+                </span>
+            </a>
+            <a className="text-secondary p-2"
+                href={contacts.rss}>
+                <span title="Rss">
+                    <FaRssSquare size={26} style={{ color: "secondary" }} />
                 </span>
             </a>
         </div>
