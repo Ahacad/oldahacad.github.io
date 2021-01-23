@@ -14,6 +14,7 @@ module.exports = {
       stackoverflow: "https://stackoverflow.com/users/11973796/ahacad",
       freecodecamp: "",
       twitter: "https://twitter.com/ahacad",
+      rss: "https://ahacad.cool/rss.xml",
     },
   },
   labels: [
