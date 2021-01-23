@@ -49,10 +49,31 @@
     "year": 2020
   },
   {
+    "name": "ワンパンマン",
+    "author": "夏目真悟",
+    "description": "",
+    "image": "2021/onepunch.webp",
+    "year": 2021
+  },
+  {
     "name": "進撃の巨人",
     "author": "林祐一郎",
     "description": "",
     "image": "2021/attack on titan.webp",
+    "year": 2021
+  },
+  {
+    "name": "イド：インヴェイデッド ",
+    "author": "青木荣",
+    "description": "",
+    "image": "2021/invaded.webp",
+    "year": 2021
+  },
+  {
+    "name": "ドロヘドロ",
+    "author": "林祐一郎",
+    "description": "",
+    "image": "2021/dorohedoro.webp",
     "year": 2021
   }
 ]

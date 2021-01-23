@@ -12,6 +12,12 @@
     "image": "2021/computer system a programmer's perspective.jpg"
   },
   {
+    "name": "tcp/ip illustrated, vol1: the protocols",
+    "author": "Kevin W. Fall, W. Richard Stevens",
+    "description": "",
+    "image": "2021/tcpip illustrated vol1.protocol.jpg"
+  },
+  {
     "name": "computer networks a top-down approach",
     "author": " James F. Kurose, Keith W. Ross",
     "description": "",
@@ -34,6 +40,12 @@
     "author": "Robert C. Martin",
     "description": "",
     "image": "2021/clean code.jpg"
+  },
+  {
+    "name": "控制论与科学方法论",
+    "author": "金观涛, 华国凡",
+    "description": "",
+    "image": "2021/控制论与科学方法论.jpg"
   },
   {
     "name": "visual group theory",
