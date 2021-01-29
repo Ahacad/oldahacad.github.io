@@ -12,5 +12,37 @@
     "description": "",
     "image": "2021/swinging the classics on MPS.jpg",
     "year": 2021
+  },
+  {
+    "name": "Liszt: favourite piano works",
+    "author": "Jorge Bolet",
+    "description": "",
+    "image": "2021/liszt favourite piano works.jpg",
+    "year": 2021,
+    "url": "https://music.douban.com/subject/1798522/"
+  },
+  {
+    "name": "Liszt the complete music for solo piano, vol.57 - hungarian rhapsodies",
+    "author": "Lislie Howard",
+    "description": "",
+    "image": "2021/liszt the complete music for solo piano, vol.57 - hungarian rhapsodies.jpg",
+    "year": 2021,
+    "url": "https://music.douban.com/subject/1798522/"
+  },
+  {
+    "name": "Wild Side",
+    "author": "ALI",
+    "description": "",
+    "image": "2021/wild side.jpg",
+    "year": 2021,
+    "url": "https://music.douban.com/subject/34921275/"
+  },
+  {
+    "name": "lost in paradise",
+    "author": "ALI",
+    "description": "",
+    "image": "2021/lost in paradise.jpg",
+    "year": 2021,
+    "url": "https://music.douban.com/subject/35229823/"
   }
 ]

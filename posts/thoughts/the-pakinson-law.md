@@ -6,6 +6,7 @@ category: "thoughts"
 tags: ["work"]
 description: ""
 language: zh
+mainpanel: true
 published: true
 ---
 

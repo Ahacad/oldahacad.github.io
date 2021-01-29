@@ -27,7 +27,64 @@
     "name": "you don't know js - up and going",
     "author": "Kyle Simpson",
     "description": "",
-    "image": "2021/you don't know js-up and going.jpg"
+    "image": "2021/you don't know js-up and going.jpg",
+    "url": "https://book.douban.com/subject/26383331/"
+  },
+  {
+    "name": "you don't know js - scope and closures",
+    "author": "Kyle Simpson",
+    "description": "",
+    "image": "2021/you don't know js-scope and closures.jpg",
+    "url": "https://book.douban.com/subject/25883834/"
+  },
+  {
+    "name": "you don't know js - types and grammar",
+    "author": "Kyle Simpson",
+    "description": "",
+    "image": "2021/you don't know js-types and grammar.jpg",
+    "url": "https://book.douban.com/subject/26333594/"
+  },
+  {
+    "name": "you don't know js - async and performance",
+    "author": "Kyle Simpson",
+    "description": "",
+    "image": "2021/you don't know js-async and performance.jpg",
+    "url": "https://book.douban.com/subject/26345789/"
+  },
+  {
+    "name": "you don't know js - this and object prototypes",
+    "author": "Kyle Simpson",
+    "description": "",
+    "image": "2021/you don't know js-this and object prototypes.jpg",
+    "url": "https://book.douban.com/subject/25986786/"
+  },
+  {
+    "name": "you don't know js - ES6 and beyond",
+    "author": "Kyle Simpson",
+    "description": "",
+    "image": "2021/you don't know js-es6 and beyond.jpg",
+    "url": "https://book.douban.com/subject/26345790/"
+  },
+  {
+    "name": "professional JavaScript for web developers",
+    "author": "Matt Frisble, Nicholas C. Zakas",
+    "description": "",
+    "image": "2021/professional javascript for web developers.jpg",
+    "url": "https://book.douban.com/subject/27589744/"
+  },
+  {
+    "name": "secrets of the JavaScript ninja",
+    "author": "John Resig, Bear Bibeault, Josip Maras",
+    "description": "",
+    "image": "2021/secrets of the JavaScript ninja.jpg",
+    "url": "https://book.douban.com/subject/26745757/"
+  },
+  {
+    "name": "understanding ECMAScript 6",
+    "author": "Nicholas C. Zakas",
+    "description": "",
+    "image": "2021/understanding ECMAScript 6.jpg",
+    "url": "https://book.douban.com/subject/26864806/"
   },
   {
     "name": "high performance browser networking",

@@ -3,6 +3,7 @@ title: "Building My Blog"
 date: "2020-11-04 09:29"
 tags: ["javascript", "building wheels"]
 published: true
+mainpanel: true
 description: "The process of building my gatsby blog. It will always be updated while I am improving the website."
 ---
 
