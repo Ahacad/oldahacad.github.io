@@ -66,6 +66,13 @@
     "url": "https://book.douban.com/subject/26345790/"
   },
   {
+    "name": "eloquent javascript",
+    "author": "Marjin Haverbeke",
+    "description": "",
+    "image": "2021/eloquent javascript.jpg",
+    "url": "https://book.douban.com/subject/30275136/"
+  },
+  {
     "name": "professional JavaScript for web developers",
     "author": "Matt Frisble, Nicholas C. Zakas",
     "description": "",
