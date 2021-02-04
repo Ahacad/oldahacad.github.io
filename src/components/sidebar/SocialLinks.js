@@ -6,6 +6,8 @@ import {
     FaTwitterSquare,
     FaRssSquare,
 } from "react-icons/fa"
+import { Icon, InlineIcon } from '@iconify/react';
+import doubanIcon from '@iconify-icons/simple-icons/douban';
 import "./sidebar.css"
 
 
@@ -40,6 +42,12 @@ const SocialLinks = ({ contacts }) => {
                 href={contacts.rss}>
                 <span title="Rss">
                     <FaRssSquare size={26} style={{ color: "secondary" }} />
+                </span>
+            </a>
+            <a className="text-secondary p-2"
+                href={contacts.douban}>
+                <span title="Douban">
+                    <Icon icon={doubanIcon} size={26} style={{ color: "secondary", pointer: "cursor" }} />
                 </span>
             </a>
         </div>

@@ -17,6 +17,7 @@ module.exports = {
       freecodecamp: siteConfig.author.contacts.freecodecamp,
       twitter: siteConfig.author.contacts.twitter,
       rss: siteConfig.author.contacts.rss,
+      douban: siteConfig.author.contacts.douban,
     },
     labels: siteConfig.labels,
   },

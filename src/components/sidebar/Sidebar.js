@@ -24,6 +24,7 @@ const Sidebar = () => {
                                 freecodecamp
                                 twitter
                                 rss
+                                douban
                             }
                             labels {
                                 tag

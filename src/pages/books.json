@@ -93,10 +93,22 @@
     "image": "2021/high performance browser networking.jpg"
   },
   {
+    "name": "css secrets",
+    "author": "Lea Verou",
+    "description": "",
+    "image": "2021/css secrets.jpg"
+  },
+  {
     "name": "clean code",
     "author": "Robert C. Martin",
     "description": "",
     "image": "2021/clean code.jpg"
+  },
+  {
+    "name": "the mythical man month and other essays on software engineering",
+    "author": "Frederick P. Brooks Jr.",
+    "description": "",
+    "image": "2021/the mythical man month.jpg"
   },
   {
     "name": "控制论与科学方法论",
@@ -127,6 +139,12 @@
     "author": "Eric Ries",
     "description": "",
     "image": "2021/the lean startup.jpg"
+  },
+  {
+    "name": "from zero to one",
+    "author": "Peter Thiel, Blake Masters",
+    "description": "",
+    "image": "2021/zerotoone.jpg"
   },
   {
     "name": "never eat alone",

@@ -83,5 +83,13 @@
     "image": "2021/space dandy.webp",
     "year": 2021,
     "url": "https://movie.douban.com/subject/24905970/"
+  },
+  {
+    "name": "ジョジョの奇妙な冒険",
+    "author": "津田尚克",
+    "description": "",
+    "image": "2021/jojo1.webp",
+    "year": 2021,
+    "url": "https://movie.douban.com/subject/11498785/"
   }
 ]

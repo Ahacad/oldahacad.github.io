@@ -15,6 +15,7 @@ module.exports = {
       freecodecamp: "",
       twitter: "https://twitter.com/ahacad",
       rss: "https://ahacad.cool/rss.xml",
+      douban: "https://www.douban.com/people/181687065",
     },
   },
   labels: [
