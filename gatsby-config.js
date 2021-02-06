@@ -8,7 +8,7 @@ module.exports = {
     siteUrl: siteConfig.url,
     title: siteConfig.title,
     tagline: siteConfig.tagline,
-    description: `My personal blog`,
+    description: `Ahacad's personal blog`,
     author: siteConfig.author.name,
     contacts: {
       linkedin: siteConfig.author.contacts.linkedin,

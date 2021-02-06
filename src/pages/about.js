@@ -28,9 +28,9 @@ const AboutPage = (props) => {
                     <Sidebar />
                 </div>
 
-      {/*
+      
                 <div className="post-main">
-                    <SEO title="About" />
+      {/*              <SEO title="About" />
                     <div className="mt-3">
                         <h2 className="heading">About</h2>
                         <p><i>Developer Diary is a Gatsby Starter blog template created with web developers in mind, but really, anyone can use it. It's totally usable right out of the box, but minimalist enough to be easily modifiable to suit your needs.</i></p>
@@ -73,9 +73,26 @@ const AboutPage = (props) => {
                             <p className="d-inline-block ml-3 w-75 align-top">Mobile responsive, of course</p>
                         </div>
                     </div>
-                </div>
         */}
-          This page is building ...
+            <p>
+              Less is <em>More</em>. Slower is <em>Faster</em>.
+            </p>
+            <p>
+              Stand up for:
+              <ul>
+                <li>curiosity</li>
+                <li>creation</li>
+                <li>efficiency</li>
+                <li>openness and collaboration</li>
+                <li>awesome things</li>
+              </ul>
+          </p>
+          <p>Bring something interesting or useful to others. Be awesome. Happy hacking.</p>
+          <p></p>
+          <p>Many thanks to all the awesome developers, you inspired me when I was in darkness.</p>
+          <p>This page is still building ...</p>
+                </div>
+
             </div>
         </Layout>
     )

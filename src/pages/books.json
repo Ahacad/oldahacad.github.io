@@ -106,10 +106,37 @@
     "image": "2021/css secrets.jpg"
   },
   {
+    "name": "design data intensive applications",
+    "author": "Martin Kleppmann",
+    "description": "",
+    "image": "2021/design data intensive applications.jpg",
+    "url": "https://book.douban.com/subject/26197294/"
+  },
+  {
+    "name": "fundamentals of software architecture",
+    "author": "Neal Ford, Mark Richards",
+    "description": "",
+    "image": "2021/fundamentals of software architecture.jpg",
+    "url": "https://book.douban.com/subject/34464806/"
+  },
+  {
+    "name": "clean architecture",
+    "author": "Robert C. Martin",
+    "description": "",
+    "image": "2021/clean architecture.jpg",
+    "url": "https://book.douban.com/subject/26915970/"
+  },
+  {
     "name": "clean code",
     "author": "Robert C. Martin",
     "description": "",
     "image": "2021/clean code.jpg"
+  },
+  {
+    "name": "the pragmatic programmer",
+    "author": "David Thomas, Andrew Hunt",
+    "description": "",
+    "image": "2021/the pragmatic programmer.jpg"
   },
   {
     "name": "the mythical man month and other essays on software engineering",
