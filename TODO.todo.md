@@ -11,4 +11,3 @@
 ===> learning
 - [ ] understand gatsby-node
 - [ ] dive deep into react
-- [ ] 
