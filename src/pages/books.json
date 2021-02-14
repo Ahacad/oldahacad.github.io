@@ -24,6 +24,20 @@
     "image": "2021/computer networks a top-down approach.jpg"
   },
   {
+    "name": "the c programming language",
+    "author": "Brian W. Kernighan, Dennis M. Ritchie",
+    "description": "",
+    "image": "2021/the c programming language.jpg",
+    "url": "https://book.douban.com/subject/1236999/"
+  },
+  {
+    "name": "structure and interpretation of computer programs",
+    "author": "Haroid Abelson, Geraid Jay Sussman",
+    "description": "",
+    "image": "2021/structure and interpretation of computer programs.jpg",
+    "url": "https://book.douban.com/subject/1451622/"
+  },
+  {
     "name": "you don't know js - up and going",
     "author": "Kyle Simpson",
     "description": "",
@@ -66,6 +80,13 @@
     "url": "https://book.douban.com/subject/26345790/"
   },
   {
+    "name": "ES6 标准入门",
+    "author": "阮一峰",
+    "description": "",
+    "image": "2021/es6 primer.jpg",
+    "url": "https://book.douban.com/subject/27127030/"
+  },
+  {
     "name": "eloquent javascript",
     "author": "Marjin Haverbeke",
     "description": "",
@@ -98,6 +119,13 @@
     "author": "Ilya Grigorik",
     "description": "",
     "image": "2021/high performance browser networking.jpg"
+  },
+  {
+    "name": "css: the definitive guide",
+    "author": "Eric A. Meyer, Estelle Weyl",
+    "description": "",
+    "image": "2021/css the definitive guide.jpg",
+    "url": "https://book.douban.com/subject/27087522/"
   },
   {
     "name": "css secrets",
@@ -133,6 +161,13 @@
     "image": "2021/clean code.jpg"
   },
   {
+    "name": "design patterns",
+    "author": "Eric Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "description": "",
+    "image": "2021/design patterns.jpg",
+    "url": "https://book.douban.com/subject/1436745/"
+  },
+  {
     "name": "the pragmatic programmer",
     "author": "David Thomas, Andrew Hunt",
     "description": "",
@@ -143,6 +178,20 @@
     "author": "Frederick P. Brooks Jr.",
     "description": "",
     "image": "2021/the mythical man month.jpg"
+  },
+  {
+    "name": "agile software development",
+    "author": "Robert C. Martin",
+    "description": "",
+    "image": "2021/agile software development.jpg",
+    "url": "https://book.douban.com/subject/1459003/"
+  },
+  {
+    "name": "refactoring",
+    "author": "Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts",
+    "description": "",
+    "image": "2021/refactoring.jpg",
+    "url": "https://book.douban.com/subject/1419359/"
   },
   {
     "name": "控制论与科学方法论",
