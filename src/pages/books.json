@@ -7,6 +7,13 @@
     "url": "https://book.douban.com/subject/11937511/"
   },
   {
+    "name": "operating system: three easy pieces",
+    "author": "Remzi H Arpaci-Dusseau, Andrea C Arpaci-Dusseau",
+    "description": "",
+    "image": "2021/operating system three easy pieces.jpg",
+    "url": "https://book.douban.com/subject/34994608/"
+  },
+  {
     "name": "computer system a programmer's perspective",
     "author": "Randal E. Bryant, David R. O'Hallaron",
     "description": "",
@@ -37,6 +44,13 @@
     "description": "",
     "image": "2021/structure and interpretation of computer programs.jpg",
     "url": "https://book.douban.com/subject/1451622/"
+  },
+  {
+    "name": "database system concepts",
+    "author": "Abraham Silberschatz Professor, Henry F. Korth, S. Sudarshan",
+    "description": "",
+    "image": "2021/database system concepts.jpg",
+    "url": "https://book.douban.com/subject/30345517/"
   },
   {
     "name": "you don't know js - up and going",
@@ -107,6 +121,13 @@
     "description": "",
     "image": "2021/secrets of the JavaScript ninja.jpg",
     "url": "https://book.douban.com/subject/26745757/"
+  },
+  {
+    "name": "functional programming in JavaScript",
+    "author": "Luis Atencio",
+    "description": "",
+    "image": "2021/functional programming in javascript.jpg",
+    "url": "https://book.douban.com/subject/26829118/"
   },
   {
     "name": "understanding ECMAScript 6",
@@ -186,6 +207,13 @@
     "description": "",
     "image": "2021/agile software development.jpg",
     "url": "https://book.douban.com/subject/1459003/"
+  },
+  {
+    "name": "fundamentals of computer graphics",
+    "author": "Steve Marschner, Peter Shirley",
+    "description": "",
+    "image": "2021/fundamentals of computer graphics.jpg",
+    "url": "https://book.douban.com/subject/26868819/"
   },
   {
     "name": "refactoring",
