@@ -16,7 +16,7 @@ const Books = ({}) => {
       <div className="row text-center">
     {
       books.map((data, index) => {
-        return <Card name={data.name} image={`/books/${data.image}`} description={data.description}/>
+        return <Card name={data.name} image={`/books/${data.image}`} description={data.description} href={data.url ?? "#"}/>
       })
     }
       </div>
