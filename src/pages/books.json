@@ -109,6 +109,13 @@
     "url": "https://book.douban.com/subject/30275136/"
   },
   {
+    "name": "JavaScript the definitive guide",
+    "author": "David Flanagan",
+    "description": "",
+    "image": "2021/javascript the definitive guide.jpg",
+    "url": "https://book.douban.com/subject/34987597/"
+  },
+  {
     "name": "professional JavaScript for web developers",
     "author": "Matt Frisble, Nicholas C. Zakas",
     "description": "",
@@ -154,6 +161,13 @@
     "author": "Lea Verou",
     "description": "",
     "image": "2021/css secrets.jpg"
+  },
+  {
+    "name": "practical vim",
+    "author": "Drew Nell",
+    "description": "",
+    "image": "2021/practical vim.jpg",
+    "url": "https://book.douban.com/subject/10599776/"
   },
   {
     "name": "design data intensive applications",
