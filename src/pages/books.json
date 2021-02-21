@@ -116,6 +116,13 @@
     "url": "https://book.douban.com/subject/34987597/"
   },
   {
+    "name": "JavaScript for impatient programmers",
+    "author": "Dr. Axel Rauschmayer",
+    "description": "",
+    "image": "2021/javascript for impatient programmers.jpg",
+    "url": "https://book.douban.com/subject/33424610/"
+  },
+  {
     "name": "professional JavaScript for web developers",
     "author": "Matt Frisble, Nicholas C. Zakas",
     "description": "",
@@ -170,6 +177,13 @@
     "url": "https://book.douban.com/subject/10599776/"
   },
   {
+    "name": "learn you a haskell for great good!",
+    "author": "Miran Lipovaca",
+    "description": "",
+    "image": "2021/learn you a haskell for good.jpg",
+    "url": "https://book.douban.com/subject/4934481/"
+  },
+  {
     "name": "design data intensive applications",
     "author": "Martin Kleppmann",
     "description": "",
@@ -214,6 +228,13 @@
     "author": "Frederick P. Brooks Jr.",
     "description": "",
     "image": "2021/the mythical man month.jpg"
+  },
+  {
+    "name": "the cathedral and the bazaar",
+    "author": "Eric Steven Raymond",
+    "description": "",
+    "image": "2021/the cathedral and the bazaar.jpg",
+    "url": "https://book.douban.com/subject/3709579/"
   },
   {
     "name": "agile software development",
