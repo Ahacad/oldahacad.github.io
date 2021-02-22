@@ -146,6 +146,14 @@
     "readed": true
   },
   {
+    "name": "effective JavaScript",
+    "author": "David Herman",
+    "description": "",
+    "image": "2021/effective javascript.jpg",
+    "url": "https://book.douban.com/subject/10494340/",
+    "readed": false
+  },
+  {
     "name": "functional programming in JavaScript",
     "author": "Luis Atencio",
     "description": "",
