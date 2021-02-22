@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.1.0...v1.1.1) (2021-02-22)
+
+
+### Bug Fixes
+
+* remove redundant jpg ([ce65817](https://github.com/gatsbyjs/gatsby-starter-default/commit/ce65817e79979af093765924e3b08769b4372cd9))
+
 ## [1.1.0](https://github.com/gatsbyjs/gatsby-starter-default/compare/v0.0.0...v1.1.0) (2021-02-22)
 
 
