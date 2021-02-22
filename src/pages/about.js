@@ -8,29 +8,28 @@ import "./index.css"
 import Sidebar from "../components/sidebar/Sidebar"
 import TechTag from "../components/tags/TechTag"
 
-const AboutPage = (props) => {
-    const labels = props.data.site.siteMetadata.labels
-    const aboutTags = ["react", "nodejs", "html", "css"]
-    const tags = {}
-    labels.forEach(label => {
-        aboutTags.forEach(tag => {
-            if (tag === label.tag) {
-                tags[tag] = label.name
-            }
-        })
+const AboutPage = props => {
+  const labels = props.data.site.siteMetadata.labels
+  const aboutTags = ["react", "nodejs", "html", "css"]
+  const tags = {}
+  labels.forEach(label => {
+    aboutTags.forEach(tag => {
+      if (tag === label.tag) {
+        tags[tag] = label.name
+      }
     })
+  })
 
-    return (
-        <Layout>
-            <SEO title="About" />
-            <div className="post-page-main">
-                <div className="sidebar px-5 py-2">
-                    <Sidebar />
-                </div>
+  return (
+    <Layout>
+      <SEO title="About" />
+      <div className="post-page-main">
+        <div className="sidebar px-5 py-2">
+          <Sidebar />
+        </div>
 
-      
-                <div className="post-main">
-      {/*              <SEO title="About" />
+        <div className="post-main">
+          {/*              <SEO title="About" />
                     <div className="mt-3">
                         <h2 className="heading">About</h2>
                         <p><i>Developer Diary is a Gatsby Starter blog template created with web developers in mind, but really, anyone can use it. It's totally usable right out of the box, but minimalist enough to be easily modifiable to suit your needs.</i></p>
@@ -74,45 +73,49 @@ const AboutPage = (props) => {
                         </div>
                     </div>
         */}
-            <p>
-              Less is <em>More</em>. Slower is <em>Faster</em>.
-            </p>
-            <p>
-              Stand up for:
-              <ul>
-                <li>curiosity</li>
-                <li>creation</li>
-                <li>efficiency</li>
-                <li>openness and collaboration</li>
-                <li>awesome things</li>
-              </ul>
+          <p>
+            Less is <em>More</em>. Slower is <em>Faster</em>.
           </p>
-          <p>Bring something interesting or useful to others. Be awesome. Happy hacking.</p>
+          <p>
+            Stand up for:
+            <ul>
+              <li>curiosity</li>
+              <li>creation</li>
+              <li>efficiency</li>
+              <li>openness and collaboration</li>
+              <li>awesome things</li>
+            </ul>
+          </p>
+          <p>
+            Bring something interesting or useful to others. Be awesome. Happy
+            hacking.
+          </p>
           <p></p>
-          <p>Many thanks to all the awesome developers, you inspired me when I was in darkness.</p>
+          <p>
+            Many thanks to all the awesome developers, you inspired me when I
+            was in darkness.
+          </p>
           <p>This page is still building ...</p>
-                </div>
-
-            </div>
-        </Layout>
-    )
+        </div>
+      </div>
+    </Layout>
+  )
 }
 
 export const pageQuery = graphql`
-    query aboutQuery {
-        site {
-            siteMetadata {
-                labels {
-                    tag
-                    tech 
-                    name 
-                    size 
-                    color
-                }
-            }
+  query aboutQuery {
+    site {
+      siteMetadata {
+        labels {
+          tag
+          tech
+          name
+          size
+          color
         }
+      }
     }
+  }
 `
 
 export default AboutPage
-

@@ -57,35 +57,40 @@
     "author": "Kyle Simpson",
     "description": "",
     "image": "2021/you don't know js-up and going.jpg",
-    "url": "https://book.douban.com/subject/26383331/"
+    "url": "https://book.douban.com/subject/26383331/",
+    "readed": true
   },
   {
     "name": "you don't know js - scope and closures",
     "author": "Kyle Simpson",
     "description": "",
     "image": "2021/you don't know js-scope and closures.jpg",
-    "url": "https://book.douban.com/subject/25883834/"
+    "url": "https://book.douban.com/subject/25883834/",
+    "readed": true
   },
   {
     "name": "you don't know js - types and grammar",
     "author": "Kyle Simpson",
     "description": "",
     "image": "2021/you don't know js-types and grammar.jpg",
-    "url": "https://book.douban.com/subject/26333594/"
+    "url": "https://book.douban.com/subject/26333594/",
+    "readed": true
   },
   {
     "name": "you don't know js - async and performance",
     "author": "Kyle Simpson",
     "description": "",
     "image": "2021/you don't know js-async and performance.jpg",
-    "url": "https://book.douban.com/subject/26345789/"
+    "url": "https://book.douban.com/subject/26345789/",
+    "readed": true
   },
   {
     "name": "you don't know js - this and object prototypes",
     "author": "Kyle Simpson",
     "description": "",
     "image": "2021/you don't know js-this and object prototypes.jpg",
-    "url": "https://book.douban.com/subject/25986786/"
+    "url": "https://book.douban.com/subject/25986786/",
+    "readed": true
   },
   {
     "name": "you don't know js - ES6 and beyond",
@@ -99,14 +104,16 @@
     "author": "阮一峰",
     "description": "",
     "image": "2021/es6 primer.jpg",
-    "url": "https://book.douban.com/subject/27127030/"
+    "url": "https://book.douban.com/subject/27127030/",
+    "readed": true
   },
   {
     "name": "eloquent javascript",
     "author": "Marjin Haverbeke",
     "description": "",
     "image": "2021/eloquent javascript.jpg",
-    "url": "https://book.douban.com/subject/30275136/"
+    "url": "https://book.douban.com/subject/30275136/",
+    "readed": true
   },
   {
     "name": "JavaScript the definitive guide",
@@ -127,14 +134,16 @@
     "author": "Matt Frisble, Nicholas C. Zakas",
     "description": "",
     "image": "2021/professional javascript for web developers.jpg",
-    "url": "https://book.douban.com/subject/27589744/"
+    "url": "https://book.douban.com/subject/27589744/",
+    "readed": true
   },
   {
     "name": "secrets of the JavaScript ninja",
     "author": "John Resig, Bear Bibeault, Josip Maras",
     "description": "",
     "image": "2021/secrets of the JavaScript ninja.jpg",
-    "url": "https://book.douban.com/subject/26745757/"
+    "url": "https://book.douban.com/subject/26745757/",
+    "readed": true
   },
   {
     "name": "functional programming in JavaScript",
@@ -154,14 +163,16 @@
     "name": "high performance browser networking",
     "author": "Ilya Grigorik",
     "description": "",
-    "image": "2021/high performance browser networking.jpg"
+    "image": "2021/high performance browser networking.jpg",
+    "readed": true
   },
   {
     "name": "css: the definitive guide",
     "author": "Eric A. Meyer, Estelle Weyl",
     "description": "",
     "image": "2021/css the definitive guide.jpg",
-    "url": "https://book.douban.com/subject/27087522/"
+    "url": "https://book.douban.com/subject/27087522/",
+    "readed": true
   },
   {
     "name": "css secrets",
