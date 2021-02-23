@@ -186,7 +186,8 @@
     "name": "css secrets",
     "author": "Lea Verou",
     "description": "",
-    "image": "2021/css secrets.jpg"
+    "image": "2021/css secrets.jpg",
+    "readed": true
   },
   {
     "name": "practical vim",
