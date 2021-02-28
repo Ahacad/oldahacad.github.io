@@ -620,3 +620,26 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+@keyframes catwalk {
+  100% {
+    background-position: 0 -2393px;
+  }
+}
+@keyframes catmove {
+  0% {
+    transform: translateX(2000px);
+  }
+  100% {
+    transform: translateX(-1000px);
+  }
+}
+.sprite-cat {
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  left: -1000px;
+  top: 0;
+  background: transparent url("../images/cat-sprite.png") 0 0 no-repeat;
+  animation: catwalk 1s steps(12) infinite, catmove linear 10s;
+}

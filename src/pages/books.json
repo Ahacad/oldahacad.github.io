@@ -53,6 +53,37 @@
     "url": "https://book.douban.com/subject/30345517/"
   },
   {
+    "name": "introduction to the theory of computation",
+    "author": "Michael Sipser",
+    "description": "",
+    "image": "2021/introduction to the theory of computation.jpg",
+    "url": "https://book.douban.com/subject/12986396/",
+    "reader": false
+  },
+  {
+    "name": "discrete mathematics and its applications",
+    "author": "Kenneth Rosen",
+    "description": "",
+    "image": "2021/discrete mathematics and its applications.jpg",
+    "url": "https://book.douban.com/subject/7921516/"
+  },
+  {
+    "name": "you don't know js yet - get started",
+    "author": "Kyle Simpson",
+    "description": "",
+    "image": "2021/you dont know js yet get started.png",
+    "url": "",
+    "readed": true
+  },
+  {
+    "name": "you don't know js yet - scopes and closures",
+    "author": "Kyle Simpson",
+    "description": "",
+    "image": "2021/you dont know js yet scopes and closures.png ",
+    "url": "",
+    "readed": true
+  },
+  {
     "name": "you don't know js - up and going",
     "author": "Kyle Simpson",
     "description": "",
@@ -175,6 +206,13 @@
     "readed": true
   },
   {
+    "name": "the browser hacker's handbook",
+    "author": "Alcorn, Wade, etc.",
+    "description": "",
+    "image": "2021/the browser hacker handbook.jpg",
+    "readed": false
+  },
+  {
     "name": "css: the definitive guide",
     "author": "Eric A. Meyer, Estelle Weyl",
     "description": "",
@@ -188,6 +226,13 @@
     "description": "",
     "image": "2021/css secrets.jpg",
     "readed": true
+  },
+  {
+    "name": "learn vimscript the hard way",
+    "author": "Steve Losh",
+    "description": "",
+    "image": "2021/learn vimscript the hardway.jpg",
+    "url": "https://book.douban.com/subject/30229839/"
   },
   {
     "name": "practical vim",
