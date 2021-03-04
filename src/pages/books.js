@@ -16,7 +16,7 @@ const Books = ({}) => {
         </h3>
       </div>
       <div className="container pt-5">
-        <div className="row text-center">
+        <div className="text-center row">
           {books.map((data, index) => {
             return (
               <Card
