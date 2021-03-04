@@ -353,10 +353,31 @@
     "image": "2021/控制论与科学方法论.jpg"
   },
   {
+    "name": "the book of why",
+    "author": "Judea Pearl, Dana Mackenzie",
+    "description": "",
+    "image": "2021/the book of why.jpg",
+    "readed": false
+  },
+  {
     "name": "visual group theory",
     "author": "Nathan Carter",
     "description": "",
     "image": "2021/visual group theory.jpg"
+  },
+  {
+    "name": "linear algebra done right",
+    "author": "Sheldon Axler",
+    "description": "",
+    "image": "2021/linear algebra done right.jpg",
+    "readed": false
+  },
+  {
+    "name": "all the mathematics you missed",
+    "author": "Thomas A> Garrity",
+    "description": "",
+    "image": "2021/all the mathematics you missed.jpg",
+    "readed": false
   },
   {
     "name": "social capital",

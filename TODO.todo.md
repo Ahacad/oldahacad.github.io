@@ -1,4 +1,5 @@
 
+- [ ] learn deeply about gatsby and migrate to v3
 - [ ] change posts tags style
 - [ ] make about page
 - [ ] add theme switching utility
