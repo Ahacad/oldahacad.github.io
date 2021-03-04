@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.1.2...v1.2.0) (2021-03-04)
+
+
+### Features
+
+* **tailwind:** introduce tailwind (not using yet) ([9b0e1de](https://github.com/gatsbyjs/gatsby-starter-default/commit/9b0e1dec22822226c54d8cf4c2fc1376bc751125))
+
 ### [1.1.2](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.1.1...v1.1.2) (2021-03-04)
 
 
