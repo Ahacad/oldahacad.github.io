@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.1.1...v1.1.2) (2021-03-04)
+
+
+### Features
+
+* **books:** add books on c++ ([d08bbed](https://github.com/gatsbyjs/gatsby-starter-default/commit/d08bbed8d4fd146f84fa5b376b7f65e01b217e79))
+* **books:** add serveral books ([92db4f9](https://github.com/gatsbyjs/gatsby-starter-default/commit/92db4f9fae5f577b7d995e8f64da06a54f865e31))
+* **books&todo:** add books and todo ([8e05bf4](https://github.com/gatsbyjs/gatsby-starter-default/commit/8e05bf4c19a0f4af2ac31b64ba024bededdfb550))
+* **sidebar:** spinning image & prettify code ([b208861](https://github.com/gatsbyjs/gatsby-starter-default/commit/b208861ab5208070775e8f812e66eae41b82f4ab))
+
+
+### Bug Fixes
+
+* **books:** fix c++ name problem ([708f8d5](https://github.com/gatsbyjs/gatsby-starter-default/commit/708f8d5c57cdcf00f882031bd52fd5eaa572e83c))
+
 ### [1.1.1](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.1.0...v1.1.1) (2021-02-22)
 
 
