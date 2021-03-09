@@ -242,6 +242,14 @@
     "url": "https://book.douban.com/subject/10599776/"
   },
   {
+    "name": "sed & awk",
+    "author": "Dale Dougherty, Arnold Robbins",
+    "description": "",
+    "image": "2021/sed and awk.jpg",
+    "url": "https://book.douban.com/subject/1741933/",
+    "readed": false
+  },
+  {
     "name": "learn you a haskell for great good!",
     "author": "Miran Lipovaca",
     "description": "",
@@ -404,10 +412,26 @@
     "image": "2021/zerotoone.jpg"
   },
   {
+    "name": "nonviolent communication",
+    "author": "Marshall B. Rosenberg PhD",
+    "description": "",
+    "image": "2021/nonviolent communication.jpg",
+    "url": "https://book.douban.com/subject/26690885/",
+    "readed": false
+  },
+  {
     "name": "never eat alone",
     "author": "Keith Ferrazzi, Tahl Raz",
     "description": "",
     "image": "2021/never eat alone.jpg"
+  },
+  {
+    "name": "influence",
+    "author": "Robert B. Cialdinni",
+    "description": "",
+    "image": "2021/influence.jpg",
+    "url": "https://book.douban.com/subject/3817764/",
+    "readed": false
   },
   {
     "name": "never split the difference",
