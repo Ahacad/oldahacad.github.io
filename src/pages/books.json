@@ -32,6 +32,30 @@
     "image": "2021/computer networks a top-down approach.jpg"
   },
   {
+    "name": "compilers: principles, techniques & tools",
+    "author": "Aho, Lam, Sethi, Ullman",
+    "description": "",
+    "image": "2021/compilers.jpg",
+    "url": "https://book.douban.com/subject/3176111/",
+    "readed": false
+  },
+  {
+    "name": "advanced compiler design and implementation",
+    "author": "Steven Muchnik",
+    "description": "",
+    "image": "2021/advanced compiler design and implementation.jpg",
+    "url": "https://book.douban.com/subject/1821532/",
+    "readed": false
+  },
+  {
+    "name": "modern compiler implementation in ML",
+    "author": "Andrew W. Appel",
+    "description": "",
+    "image": "2021/modern compiler implementation in ML.jpg",
+    "url": "https://book.douban.com/subject/1777406/",
+    "readed": false
+  },
+  {
     "name": "the c programming language",
     "author": "Brian W. Kernighan, Dennis M. Ritchie",
     "description": "",
@@ -225,6 +249,14 @@
     "author": "Lea Verou",
     "description": "",
     "image": "2021/css secrets.jpg",
+    "readed": true
+  },
+  {
+    "name": "the web application hacker's handbook",
+    "author": "Dalfydd Stuttard, Marcus Pinto",
+    "description": "",
+    "image": "2021/the web application hacker handbook.jpg",
+    "url": "https://book.douban.com/subject/2705016/",
     "readed": true
   },
   {
