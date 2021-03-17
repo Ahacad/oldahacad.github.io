@@ -14,6 +14,14 @@
     "url": "https://book.douban.com/subject/34994608/"
   },
   {
+    "name": "operating system concepts",
+    "author": "Abraham, Peter et.al",
+    "description": "",
+    "image": "2021/operating concepts.jpg",
+    "url": "https://book.douban.com/subject/30272539/",
+    "readed": true
+  },
+  {
     "name": "computer system a programmer's perspective",
     "author": "Randal E. Bryant, David R. O'Hallaron",
     "description": "",
@@ -446,9 +454,16 @@
   },
   {
     "name": "all the mathematics you missed",
-    "author": "Thomas A> Garrity",
+    "author": "Thomas A, Garrity",
     "description": "",
     "image": "2021/all the mathematics you missed.jpg",
+    "readed": false
+  },
+  {
+    "name": "international economics",
+    "author": "Paul R. Krugman, Maurice Obstfeld, Marc Melitz",
+    "description": "",
+    "image": "2021/international economics.jpg",
     "readed": false
   },
   {
