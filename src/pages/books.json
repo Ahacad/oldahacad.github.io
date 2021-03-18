@@ -321,6 +321,14 @@
     "url": "https://book.douban.com/subject/4934481/"
   },
   {
+    "name": "the Go programming language",
+    "author": "Brian W. Keinighanm, Alan Donovan",
+    "description": "",
+    "image": "2021/the go programming language.jpg",
+    "url": "https://book.douban.com/subject/26337545/",
+    "readed": false
+  },
+  {
     "name": "accelerated c++",
     "author": "Andrew Koenig, Barbara E. Moo",
     "description": "",
@@ -485,6 +493,38 @@
     "author": " Ed Catmull, Amy Wallace",
     "description": "",
     "image": "2021/creativity inc.jpg"
+  },
+  {
+    "name": "the intelligent investor",
+    "author": "Benjamin Graham, Jason Zweig",
+    "description": "",
+    "image": "2021/the intelligent investor.jpg",
+    "url": "https://book.douban.com/subject/1467393/",
+    "readed": false
+  },
+  {
+    "name": "common stocks and uncommon profits and other writings",
+    "author": "Philip A. Fisher",
+    "description": "",
+    "image": "2021/common stocks and uncommon profits and other writings.jpg",
+    "url": "https://book.douban.com/subject/1758637/",
+    "readed": false
+  },
+  {
+    "name": "the alchemy of finance",
+    "author": "George Soros",
+    "description": "",
+    "image": "2021/the alchemy of finance.jpg",
+    "url": "https://book.douban.com/subject/1431776/",
+    "readed": false
+  },
+  {
+    "name": "reminiscences of a stock operator",
+    "author": "Edwin Lefevre",
+    "description": "",
+    "image": "2021/reminiscences of a stock operator.jpg",
+    "url": "https://book.douban.com/subject/2192832/",
+    "readed": false
   },
   {
     "name": "the lean startup",
