@@ -2,7 +2,7 @@
 - [ ] learn deeply about gatsby and migrate to v3
 - [ ] change posts tags style
 - [ ] make about page (make better, add photo)
-- [ ] add Discourse
+- [ ] add Discourse and make it works
 - [ ] add theme switching utility
 - [X] page for books
   - [X] add more books to books.json
