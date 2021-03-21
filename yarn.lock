@@ -7056,6 +7056,11 @@ gatsby-page-utils@^0.9.1:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
+gatsby-plugin-disqus@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.npm.taobao.org/gatsby-plugin-disqus/download/gatsby-plugin-disqus-1.2.2.tgz#d10e72c2ac0f7205abd7dda2e8cb4ecc0743a824"
+  integrity sha1-0Q5ywqwPcgWr192i6MtOzAdDqCQ=
+
 gatsby-plugin-emotion@^4.0.7:
   version "4.5.0"
   resolved "https://registry.npm.taobao.org/gatsby-plugin-emotion/download/gatsby-plugin-emotion-4.5.0.tgz#f54dee45030a42321e3db04e5cfa969293df0f1a"

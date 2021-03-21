@@ -1,4 +1,4 @@
-'use strict'
+"use strict"
 
 const siteConfig = require("./config")
 
@@ -27,6 +27,12 @@ module.exports = {
     `gatsby-plugin-feed`,
     `gatsby-plugin-sharp`,
     {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `ahacad-cool`,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/posts`,
@@ -52,8 +58,9 @@ module.exports = {
               aliases: {},
               showLineNumbers: false,
               noInlineHighlight: false,
-            }
-          }, `gatsby-remark-responsive-iframe`,
+            },
+          },
+          `gatsby-remark-responsive-iframe`,
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -71,9 +78,9 @@ module.exports = {
       options: {
         fonts: [
           `Raleway`,
-          `source sans pro\:300,400,400i,700` // you can also specify font weights and styles
-        ]
-      }
+          `source sans pro\:300,400,400i,700`, // you can also specify font weights and styles
+        ],
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -87,7 +94,7 @@ module.exports = {
         icon: `src/images/ahacad.jpg`, // This path is relative to the root of the site.
       },
     },
-    `gatsby-plugin-netlify-cms`
+    `gatsby-plugin-netlify-cms`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
