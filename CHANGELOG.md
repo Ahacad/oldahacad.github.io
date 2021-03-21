@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.3.1...v1.4.0) (2021-03-21)
+
+
+### Features
+
+* add disqus gatsby plugin ([c0fc6bd](https://github.com/gatsbyjs/gatsby-starter-default/commit/c0fc6bd05609b13a693254103260ed86a8eb91e9))
+
 ### [1.3.1](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.3.0...v1.3.1) (2021-03-21)
 
 
