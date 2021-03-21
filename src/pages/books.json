@@ -353,6 +353,30 @@
     "readed": false
   },
   {
+    "name": "fluent python",
+    "author": "Luciano Ramalho",
+    "description": "",
+    "image": "2021/fluent python.jpg",
+    "url": "https://book.douban.com/subject/34990079/",
+    "readed": false
+  },
+  {
+    "name": "python crash course",
+    "author": "Eric Matthes",
+    "description": "",
+    "image": "2021/python crash course.jpg",
+    "url": "https://book.douban.com/subject/31333701/",
+    "readed": false
+  },
+  {
+    "name": "the art of unix programming",
+    "author": "Eric S. Raymond",
+    "description": "",
+    "image": "2021/the art of unix programming.jpg",
+    "url": "https://book.douban.com/subject/1229959/",
+    "readed": false
+  },
+  {
     "name": "design data intensive applications",
     "author": "Martin Kleppmann",
     "description": "",
