@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.3.0...v1.3.1) (2021-03-21)
+
+
+### Features
+
+* add books and post drafts ([e505ab8](https://github.com/gatsbyjs/gatsby-starter-default/commit/e505ab8811cf6d432e12240edf6e9f82296bceb2))
+
 ## [1.3.0](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.2.0...v1.3.0) (2021-03-18)
 
 
