@@ -7,7 +7,7 @@ tags: ["learning"]
 description: ""
 language: en
 mainpanel: true
-published: true
+published: false
 ---
 
 PDL: problem driven learning || project driven learning
