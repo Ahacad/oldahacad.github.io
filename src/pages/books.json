@@ -260,6 +260,14 @@
     "readed": true
   },
   {
+    "name": "react in action",
+    "author": "Mark Tielens Thomas",
+    "description": "",
+    "image": "2021/react in action.jpg",
+    "url": "https://book.douban.com/subject/26997847/",
+    "readed": false
+  },
+  {
     "name": "the web application hacker's handbook",
     "author": "Dalfydd Stuttard, Marcus Pinto",
     "description": "",
@@ -568,6 +576,14 @@
     "description": "",
     "image": "2021/nonviolent communication.jpg",
     "url": "https://book.douban.com/subject/26690885/",
+    "readed": false
+  },
+  {
+    "name": "the fomula",
+    "author": "Albert-Laszio Barabasi",
+    "description": "",
+    "image": "2021/the fomula.jpg",
+    "url": "https://book.douban.com/subject/30367012/",
     "readed": false
   },
   {
