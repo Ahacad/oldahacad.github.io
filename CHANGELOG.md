@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.4.0...v1.5.0) (2021-03-25)
+
+
+### Features
+
+* add books and posts ([ff6e224](https://github.com/gatsbyjs/gatsby-starter-default/commit/ff6e2246b60c9191bce26374a824032ea23b5098))
+* add disqus ([a0647e1](https://github.com/gatsbyjs/gatsby-starter-default/commit/a0647e14af0fd4fa7848e78864d0bf02b6e61eb6))
+* add vim post ([63ee27c](https://github.com/gatsbyjs/gatsby-starter-default/commit/63ee27c81e9f76285571ac4eac292c61980d67a7))
+
+
+### Bug Fixes
+
+* add todo ([4d5d8b4](https://github.com/gatsbyjs/gatsby-starter-default/commit/4d5d8b4db13a3527faa305799945ea3c816e9205))
+* fix published posts ([b20b92f](https://github.com/gatsbyjs/gatsby-starter-default/commit/b20b92fe4dc84aa765579c20355249e324b81ad8))
+
 ## [1.4.0](https://github.com/gatsbyjs/gatsby-starter-default/compare/v1.3.1...v1.4.0) (2021-03-21)
 
 
