@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import "./blog-post.css"
+import { Disqus } from "gatsby-plugin-disqus"
 
 import Sidebar from "../components/sidebar/Sidebar"
 import TechTag from "../components/tags/TechTag"
@@ -15,6 +16,12 @@ const BlogPost = props => {
   const siteUrl = props.data.site.siteMetadata.url
   const url = `${siteUrl}${props.pageContext.slug}`
   const tags = post.frontmatter.tags
+
+  const disqusConfig = {
+    url,
+    identifier: post.frontmatter.title,
+    title: post.frontmatter.title,
+  }
 
   {
     /* 
@@ -55,6 +62,7 @@ const BlogPost = props => {
               siteName={siteName}
               url={url}
             />
+            <Disqus config={disqusConfig} />
           </div>
         </div>
       </div>
