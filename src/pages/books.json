@@ -7,6 +7,14 @@
     "url": "https://book.douban.com/subject/11937511/"
   },
   {
+    "name": "the linux programming interface",
+    "author": "Michael Kerrisk",
+    "description": "",
+    "image": "2021/the linux programming interface.jpg",
+    "url": "https://book.douban.com/subject/4292217/",
+    "readed": false
+  },
+  {
     "name": "operating system: three easy pieces",
     "author": "Remzi H Arpaci-Dusseau, Andrea C Arpaci-Dusseau",
     "description": "",
@@ -258,6 +266,14 @@
     "description": "",
     "image": "2021/css secrets.jpg",
     "readed": true
+  },
+  {
+    "name": "css in depth",
+    "author": "Keith J. Grant",
+    "description": "",
+    "image": "2021/css in depth.jpg",
+    "url": "https://book.douban.com/subject/26887948/",
+    "readed": false
   },
   {
     "name": "react in action",

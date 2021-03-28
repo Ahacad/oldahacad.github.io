@@ -1,11 +1,11 @@
 ---
-title: "常用 C++ 操作整理"
+title: "常用 C++ 操作整理 (WIP)"
 date: "2021-03-21 14:41:30"
 author: ahacad
-category: ""
-tags: [""]
+category: "acm"
+tags: ["cpp"]
 description: ""
-language: en
+language: zh
 mainpanel: true
 published: true
 ---
@@ -48,8 +48,12 @@ const ll INF_LL = 9223372036854775807LL;
 ### 常用算法模板
 
 #### gcd
-
+TODO: explaining 
 ```cpp
 ll gcd(ll a,ll b){while(b^=a^=b^=a%=b);return a;}
 ll lcd(ll a , ll b){return a * b / gcd(a,b);}
 ```
+
+TODO: sort for structs
+
+TODO: prettier for c++
