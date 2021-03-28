@@ -48,6 +48,15 @@ CMD ["npm", "run", "dev"]
 
 转用 alpine 之后，打包体积从 `994 MB` 降为 `114 MB`，非常可观的下降。
 
+### 启动
+
+```bash
+docker run -d -p 80:80 docker/getting-started
+```
+
+- `-d`: 后台运行
+- `-p 80:80` 系统端口:镜像端口 映射
+
 
 ### 镜像管理 (containers)
 
