@@ -18,12 +18,66 @@ published: true
 
 ---
 
+### 基础复习
+
+
+### 重学 vim
+
+##### 调整本行在屏幕中的位置
+
 ```vim
 zz: 将光标所在行拉到屏幕中央，以显示上下文
 zt: 将光标所在行拉到屏幕最上方
 zb: 将光标所在行拉到屏幕下方
 ```
+##### 跳跃:
 
+```vim
+``: 回跳到上一次的位置 (Vim 中称为 mark, 非本行内的跳跃产生 mark)，比如使用 G 跳到底部，再用 `` 可以在两点之间会跳
+CTRL-O: 回跳到上一个 mark
+CTRL-I: 跳到下一个 mark
+```
+
+##### marks: 
+
+```vim
+m{a-z}: 创建一个 mark
+`{a-z}: 跳到 mark
+'{a-z}: 跳到 mark 所在行的开头
+'': 快速回调到上一行的开头
+:marks : 查看所有的 mark
+```
+
+可以看出 `''` 跳到行的开头，跳到 mark。
+
+##### 删改
+
+```vim
+cc: 修改一整行，并进入 Insert Mode，C 是一样的效果
+X: 删除前面一个字符
+```
+
+Text objects: （详见 vim help `:help text-objects`）
+
+```vim
+das：删除 a sentence (包含 sentence 后 whitespace)
+dis：删除 inner sentence (不含 sentence 后 whitespace)
+```
+
+##### Visual mode
+
+在 Visual Mode 中:
+
+```vim
+o: 跳到 Visual 选中的行中的另一端
+```
+
+在 Block Visual Mode 中，此时有四个角:
+
+```vim
+o: 跳到对角线上的另一个角
+O: 跳到同一行的另一个角
+```
 
 
 ### References
