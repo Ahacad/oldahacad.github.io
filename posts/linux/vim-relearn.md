@@ -48,7 +48,7 @@ m{a-z}: 创建一个 mark
 :marks : 查看所有的 mark
 ```
 
-可以看出 `''` 跳到行的开头，跳到 mark。
+可以看出 `''` 跳到行的开头，跳到 mark。这些用小写字母打上的 mask 都是 local 的，而用大写字母打上的则是 global 的。
 
 ##### 删改
 
@@ -70,6 +70,7 @@ dis：删除 inner sentence (不含 sentence 后 whitespace)
 
 ```vim
 o: 跳到 Visual 选中的行中的另一端
+~: 改变选中字符的 case (lower <--> upper)
 ```
 
 在 Block Visual Mode 中，此时有四个角:
@@ -78,6 +79,46 @@ o: 跳到 Visual 选中的行中的另一端
 o: 跳到对角线上的另一个角
 O: 跳到同一行的另一个角
 ```
+
+##### 转换
+
+```vim
+:TOhtml: 转化当前文件为 html
+```
+
+第一次看到这个功能的我惊了，非常强大。
+
+##### 编辑多个文件
+
+```vim
+:file newname: 改当前文章名字
+```
+
+##### 分屏
+
+```vim
+:only: 关掉除了当前屏幕外的所有屏幕
+:qall: 退出所有屏幕
+:wall: 写并退出
+```
+
+```bash
+vim -o file1 file2 file3: split 打开多个文件
+vim -O file1 file2 file3: vsplit 打开多个文件
+```
+
+```bash
+vim -d file1 file2: diff 模式打开文件
+```
+
+或者在 vim 中进入 diff
+
+```vim
+:vertical diffsplit anotherfile
+```
+
+
+
 
 
 ### References
