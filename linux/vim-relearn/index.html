@@ -25,7 +25,7 @@ CTRL<span class="token operator">-</span>I<span class="token punctuation">:</spa
 '<span class="token punctuation">{</span>a<span class="token operator">-</span>z<span class="token punctuation">}</span><span class="token punctuation">:</span> 跳到 <span class="token keyword">mark</span> 所在行的开头
 <span class="token string">''</span><span class="token punctuation">:</span> 快速回调到上一行的开头
 <span class="token punctuation">:</span><span class="token keyword">marks</span> <span class="token punctuation">:</span> 查看所有的 <span class="token keyword">mark</span></code></pre></div>
-<p>可以看出 <code class="language-text">&#39;&#39;</code> 跳到行的开头，跳到 mark。</p>
+<p>可以看出 <code class="language-text">&#39;&#39;</code> 跳到行的开头，跳到 mark。这些用小写字母打上的 mask 都是 local 的，而用大写字母打上的则是 global 的。</p>
 <h5>删改</h5>
 <div class="gatsby-highlight" data-language="vim"><pre class="language-vim"><code class="language-vim"><span class="token keyword">cc</span><span class="token punctuation">:</span> 修改一整行，并进入 Insert Mode，C 是一样的效果
 <span class="token keyword">X</span><span class="token punctuation">:</span> 删除前面一个字符</code></pre></div>
@@ -34,10 +34,25 @@ CTRL<span class="token operator">-</span>I<span class="token punctuation">:</spa
 dis：删除 inner sentence <span class="token punctuation">(</span>不含 sentence 后 whitespace<span class="token punctuation">)</span></code></pre></div>
 <h5>Visual mode</h5>
 <p>在 Visual Mode 中:</p>
-<div class="gatsby-highlight" data-language="vim"><pre class="language-vim"><code class="language-vim"><span class="token keyword">o</span><span class="token punctuation">:</span> 跳到 Visual 选中的行中的另一端</code></pre></div>
+<div class="gatsby-highlight" data-language="vim"><pre class="language-vim"><code class="language-vim"><span class="token keyword">o</span><span class="token punctuation">:</span> 跳到 Visual 选中的行中的另一端
+~<span class="token punctuation">:</span> 改变选中字符的 case <span class="token punctuation">(</span>lower <span class="token operator">&lt;</span><span class="token operator">-</span><span class="token operator">-</span><span class="token operator">></span> upper<span class="token punctuation">)</span></code></pre></div>
 <p>在 Block Visual Mode 中，此时有四个角:</p>
 <div class="gatsby-highlight" data-language="vim"><pre class="language-vim"><code class="language-vim"><span class="token keyword">o</span><span class="token punctuation">:</span> 跳到对角线上的另一个角
 O<span class="token punctuation">:</span> 跳到同一行的另一个角</code></pre></div>
+<h5>转换</h5>
+<div class="gatsby-highlight" data-language="vim"><pre class="language-vim"><code class="language-vim"><span class="token punctuation">:</span>TOhtml<span class="token punctuation">:</span> 转化当前文件为 html</code></pre></div>
+<p>第一次看到这个功能的我惊了，非常强大。</p>
+<h5>编辑多个文件</h5>
+<div class="gatsby-highlight" data-language="vim"><pre class="language-vim"><code class="language-vim"><span class="token punctuation">:</span><span class="token keyword">file</span> newname<span class="token punctuation">:</span> 改当前文章名字</code></pre></div>
+<h5>分屏</h5>
+<div class="gatsby-highlight" data-language="vim"><pre class="language-vim"><code class="language-vim"><span class="token punctuation">:</span><span class="token keyword">only</span><span class="token punctuation">:</span> 关掉除了当前屏幕外的所有屏幕
+<span class="token punctuation">:</span><span class="token keyword">qall</span><span class="token punctuation">:</span> 退出所有屏幕
+<span class="token punctuation">:</span><span class="token keyword">wall</span><span class="token punctuation">:</span> 写并退出</code></pre></div>
+<div class="gatsby-highlight" data-language="bash"><pre class="language-bash"><code class="language-bash"><span class="token function">vim</span> -o file1 file2 file3: <span class="token function">split</span> 打开多个文件
+<span class="token function">vim</span> -O file1 file2 file3: vsplit 打开多个文件</code></pre></div>
+<div class="gatsby-highlight" data-language="bash"><pre class="language-bash"><code class="language-bash"><span class="token function">vim</span> -d file1 file2: <span class="token function">diff</span> 模式打开文件</code></pre></div>
+<p>或者在 vim 中进入 diff</p>
+<div class="gatsby-highlight" data-language="vim"><pre class="language-vim"><code class="language-vim"><span class="token punctuation">:</span><span class="token keyword">vertical</span> <span class="token keyword">diffsplit</span> anotherfile</code></pre></div>
 <h3>References</h3>
 <ul>
 <li><a href="https://neovim.io/doc/user/">neovim.io user manual</a>: 你也可以在 Unix 系统的 <code class="language-text">/usr/share/nvim/runtime/doc</code> 找到所有的文档</li>
