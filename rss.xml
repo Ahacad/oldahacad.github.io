@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ahacad's blog]]></title><description><![CDATA[Ahacad's personal blog]]></description><link>https://ahacad.cool</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 04 Apr 2021 16:07:28 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/vim-for-go/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-for-go/</guid><content:encoded></content:encoded></item><item><title><![CDATA[The Tao of pomodoro]]></title><description><![CDATA[使用番茄钟已经有一段时间了，我的整个工作方法已经被彻底改变、完全以 pomodoro
-为中心， 怎么做 pomodoro 非常简单 背后蕴藏的意义却非常不简单： 对自己保持绝对真实 一点一点做东西 休息是工作的前提 每一分钟都很重要 明白自己的能力边界 一般来说 pomodoro…]]></description><link>https://ahacad.cool/thoughts/WIPthe-tao-of-pomodoro/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/WIPthe-tao-of-pomodoro/</guid><pubDate>Sun, 04 Apr 2021 23:35:26 GMT</pubDate><content:encoded>&lt;p&gt;使用番茄钟已经有一段时间了，我的整个工作方法已经被彻底改变、完全以 pomodoro
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ahacad's blog]]></title><description><![CDATA[Ahacad's personal blog]]></description><link>https://ahacad.cool</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Apr 2021 02:56:44 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/vim-for-go/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-for-go/</guid><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[design a post card:  reddit douban discourse]]></description><link>https://ahacad.cool/Developing/design-a-forum/</link><guid isPermaLink="false">https://ahacad.cool/Developing/design-a-forum/</guid><content:encoded>&lt;p&gt;design a post card: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/&quot;&gt;reddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://douban.com&quot;&gt;douban&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.community/&quot;&gt;discourse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[The Tao of pomodoro]]></title><description><![CDATA[使用番茄钟已经有一段时间了，我的整个工作方法已经被彻底改变、完全以 pomodoro
+为中心， 怎么做 pomodoro…]]></description><link>https://ahacad.cool/thoughts/WIPthe-tao-of-pomodoro/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/WIPthe-tao-of-pomodoro/</guid><pubDate>Sun, 04 Apr 2021 23:35:26 GMT</pubDate><content:encoded>&lt;p&gt;使用番茄钟已经有一段时间了，我的整个工作方法已经被彻底改变、完全以 pomodoro
 为中心，&lt;/p&gt;
 &lt;p&gt;怎么做 pomodoro 非常简单&lt;/p&gt;
 &lt;p&gt;背后蕴藏的意义却非常不简单：&lt;/p&gt;
@@ -9,12 +14,34 @@
 &lt;li&gt;休息是工作的前提&lt;/li&gt;
 &lt;li&gt;每一分钟都很重要&lt;/li&gt;
 &lt;li&gt;明白自己的能力边界&lt;/li&gt;
+&lt;li&gt;为每一件事注入意义&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;一般来说 pomodoro 为 25 分钟左右，&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[nodejs environmental variables react hooks 总结  js require, import 原理]]></description><link>https://ahacad.cool/TOWRITES/</link><guid isPermaLink="false">https://ahacad.cool/TOWRITES/</guid><pubDate>Sun, 04 Apr 2021 23:31:03 GMT</pubDate><content:encoded>&lt;ul&gt;
-&lt;li&gt;nodejs environmental variables&lt;/li&gt;
+&lt;p&gt;一般来说 pomodoro 为 25 分钟左右，&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[nodejs environmental variables: https://www.twilio.com/blog/working-with-environment-variables-in-node-js-html https://medium.com/the-node…]]></description><link>https://ahacad.cool/TOWRITES/</link><guid isPermaLink="false">https://ahacad.cool/TOWRITES/</guid><pubDate>Sun, 04 Apr 2021 23:31:03 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;nodejs environmental variables:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.twilio.com/blog/working-with-environment-variables-in-node-js-html&quot;&gt;https://www.twilio.com/blog/working-with-environment-variables-in-node-js-html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786&quot;&gt;https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/motdotla/dotenv#readme&quot;&gt;https://github.com/motdotla/dotenv#readme&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;react hooks 总结 &lt;a href=&quot;https://www.cnblogs.com/V587Chinese/p/12778842.html&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;js require, import 原理&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[从零开始配置好一个 centos 服务器]]></title><description><![CDATA[最近换了服务器，乘着这个机会配置一下 centos]]></description><link>https://ahacad.cool/linux/start-a-centos-server/</link><guid isPermaLink="false">https://ahacad.cool/linux/start-a-centos-server/</guid><pubDate>Fri, 02 Apr 2021 11:16:30 GMT</pubDate><content:encoded>&lt;p&gt;最近换了服务器，乘着这个机会配置一下 centos&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/awk-sed/</link><guid isPermaLink="false">https://ahacad.cool/linux/awk-sed/</guid><pubDate>Thu, 01 Apr 2021 11:07:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/Developing/WIPtesting-node-program/</link><guid isPermaLink="false">https://ahacad.cool/Developing/WIPtesting-node-program/</guid><pubDate>Wed, 31 Mar 2021 15:50:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[阅读的生命周期]]></title><description><![CDATA[（本文专门讨论信息密度较大的非虚构类书籍，纯文学类不在讨论范围内） 打开一本书，读，合上。我记住了什么？我为何要读书？ 阅读是如此寻常的一个动作以至于我们不把他当一回事， 阅读又是如此不寻常的一件事。 阅读的生命周期，]]></description><link>https://ahacad.cool/thoughts/the-life-cycle-of-reading/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/the-life-cycle-of-reading/</guid><pubDate>Tue, 30 Mar 2021 23:35:29 GMT</pubDate><content:encoded>&lt;p&gt;（本文专门讨论信息密度较大的非虚构类书籍，纯文学类不在讨论范围内）&lt;/p&gt;
+&lt;li&gt;js require, import 原理, dynamic import
+&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import#dynamic_imports&quot;&gt;&lt;/a&gt;,
+&lt;a href=&quot;https://javascript.info/modules-dynamic-imports&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ajax &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch&quot;&gt;fetch api&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;mining &lt;a href=&quot;https://www.cryptocurrencyfreak.com/2017/08/07/monero-mining-cpuminer-multi-centos-7/&quot;&gt;install cpuminer on centos7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;z-index default number&lt;/li&gt;
+&lt;li&gt;custom scrollbar &lt;a href=&quot;https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll&quot;&gt;hide scrollbar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[从零开始配置好一个 centos 服务器]]></title><description><![CDATA[最近换了服务器，乘着这个机会配置一下 centos SSH 登录上服务器，建立目录 ，把自己电脑上生成的公钥 
+复制到服务器上 
+即可，或者使用如下命令（意思是一样的）:]]></description><link>https://ahacad.cool/linux/start-a-centos-server/</link><guid isPermaLink="false">https://ahacad.cool/linux/start-a-centos-server/</guid><pubDate>Fri, 02 Apr 2021 11:16:30 GMT</pubDate><content:encoded>&lt;p&gt;最近换了服务器，乘着这个机会配置一下 centos&lt;/p&gt;
+&lt;h4&gt;SSH&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;ssh-keygen -t rsa&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;登录上服务器，建立目录 &lt;code class=&quot;language-text&quot;&gt;~/.ssh&lt;/code&gt;，把自己电脑上生成的公钥 &lt;code class=&quot;language-text&quot;&gt;~/.ssh/id_rsa.pub&lt;/code&gt;
+复制到服务器上 &lt;code class=&quot;language-text&quot;&gt;~/.ssh/authorized_keys&lt;/code&gt;
+即可，或者使用如下命令（意思是一样的）:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;cat&lt;/span&gt; .ssh/id_rsa.pub &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;ssh&lt;/span&gt; user@server &lt;span class=&quot;token string&quot;&gt;&apos;cat &gt;&gt; .ssh/authorized_keys&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/awk-sed/</link><guid isPermaLink="false">https://ahacad.cool/linux/awk-sed/</guid><pubDate>Thu, 01 Apr 2021 11:07:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/Developing/WIPtesting-node-program/</link><guid isPermaLink="false">https://ahacad.cool/Developing/WIPtesting-node-program/</guid><pubDate>Wed, 31 Mar 2021 15:50:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[阅读的生命周期]]></title><description><![CDATA[（本文专门讨论信息密度较大的非虚构类书籍，纯文学类不在讨论范围内） 打开一本书，读，合上。我记住了什么？我为何要读书？ 阅读是如此寻常的一个动作以至于我们不把他当一回事， 阅读又是如此不寻常的一件事。 阅读的生命周期，]]></description><link>https://ahacad.cool/thoughts/the-life-cycle-of-reading/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/the-life-cycle-of-reading/</guid><pubDate>Tue, 30 Mar 2021 23:35:29 GMT</pubDate><content:encoded>&lt;p&gt;（本文专门讨论信息密度较大的非虚构类书籍，纯文学类不在讨论范围内）&lt;/p&gt;
 &lt;p&gt;打开一本书，读，合上。我记住了什么？我为何要读书？&lt;/p&gt;
 &lt;p&gt;阅读是如此寻常的一个动作以至于我们不把他当一回事，&lt;/p&gt;
 &lt;p&gt;阅读又是如此不寻常的一件事。&lt;/p&gt;
