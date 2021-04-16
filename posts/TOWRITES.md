@@ -22,3 +22,8 @@ published: false
 - mining [install cpuminer on centos7](https://www.cryptocurrencyfreak.com/2017/08/07/monero-mining-cpuminer-multi-centos-7/)
 - z-index default number
 - custom scrollbar [hide scrollbar](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
+- design web api
+  - [hackernews api](https://github.com/HackerNews/API)
+- css tricks:
+  - line limit
+  - scrollbar style

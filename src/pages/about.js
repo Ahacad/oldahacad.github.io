@@ -24,7 +24,7 @@ const AboutPage = props => {
     <Layout>
       <SEO title="About" />
       <div className="post-page-main">
-        <div className="sidebar px-5 py-2">
+        <div className="px-5 py-2 sidebar">
           <Sidebar />
         </div>
 
@@ -39,13 +39,13 @@ const AboutPage = props => {
                             <span className="text-success d-inline-block" title="blazing">
                                 <FaCheckCircle size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Blazing fast, as you'd expect from a Gatsby site</p>
+                            <p className="ml-3 align-top d-inline-block w-75">Blazing fast, as you'd expect from a Gatsby site</p>
                         </div>
                         <div>
                             <span className="text-success d-inline-block" title="tags">
                                 <FaCheckCircle size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Tech tags designed for web developers</p>
+                            <p className="ml-3 align-top d-inline-block w-75">Tech tags designed for web developers</p>
                             <div className="ml-5">
                                 <TechTag tag="react" tech="React" name={tags["react"]} size={20} color="deepskyblue" />
                                 <TechTag tag="nodejs" tech="Node.js" name={tags["nodejs"]} size={20} color="lightgreen" />
@@ -57,19 +57,19 @@ const AboutPage = props => {
                             <span className="text-success d-inline-block" title="prism">
                                 <FaCheckCircle size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Includes Prism for code block styling in markdown files</p>
+                            <p className="ml-3 align-top d-inline-block w-75">Includes Prism for code block styling in markdown files</p>
                         </div>
                         <div>
                             <span className="text-success d-inline-block" title="icons">
                                 <FaCheckCircle size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Developer-relevant social-media icon links including GitHub, Stack Overflow and freeCodeCamp</p>
+                            <p className="ml-3 align-top d-inline-block w-75">Developer-relevant social-media icon links including GitHub, Stack Overflow and freeCodeCamp</p>
                         </div>
                         <div>
                             <span className="text-success d-inline-block" title="mobile">
                                 <FaCheckCircle size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Mobile responsive, of course</p>
+                            <p className="ml-3 align-top d-inline-block w-75">Mobile responsive, of course</p>
                         </div>
                     </div>
         */}
@@ -86,6 +86,7 @@ const AboutPage = props => {
               <li>awesome things</li>
             </ul>
           </p>
+          {/*<p>Blogger/Developer/Hacker/Scientist/Painter</p>*/}
           <p>
             Bring something interesting or useful to others. Be awesome. Happy
             hacking.
@@ -94,6 +95,10 @@ const AboutPage = props => {
           <p>
             Many thanks to all the awesome developers, you inspired me when I
             was in darkness.
+          </p>
+          <p>
+            Interests: algorithm, theory, web apps (frontend + backend),
+            computer graphics, machine learning
           </p>
           <p>This page is still building ...</p>
         </div>

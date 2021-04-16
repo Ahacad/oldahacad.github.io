@@ -98,7 +98,15 @@
     "description": "",
     "image": "2021/introduction to the theory of computation.jpg",
     "url": "https://book.douban.com/subject/12986396/",
-    "reader": false
+    "readed": false
+  },
+  {
+    "name": "introduction to automata theory, languages and computation",
+    "author": "Michael Sipser",
+    "description": "",
+    "image": "2021/introduction to automata theory languages and computation.jpg",
+    "url": "https://book.douban.com/subject/2249114/",
+    "readed": false
   },
   {
     "name": "discrete mathematics and its applications",
@@ -106,6 +114,14 @@
     "description": "",
     "image": "2021/discrete mathematics and its applications.jpg",
     "url": "https://book.douban.com/subject/7921516/"
+  },
+  {
+    "name": "introduction to graph theory",
+    "author": "Douglas B. WEst",
+    "description": "",
+    "image": "2021/introduction to graph theory.jpg",
+    "url": "https://book.douban.com/subject/1949169/",
+    "readed": false
   },
   {
     "name": "you don't know js yet - get started",
@@ -289,7 +305,7 @@
     "description": "",
     "image": "2021/the web application hacker handbook.jpg",
     "url": "https://book.douban.com/subject/2705016/",
-    "readed": true
+    "readed": false
   },
   {
     "name": "learn vimscript the hard way",

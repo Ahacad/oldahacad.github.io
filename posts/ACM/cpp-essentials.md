@@ -44,6 +44,24 @@ const int INF = 0x3f3f3f3f;
 const ll INF_LL = 9223372036854775807LL;
 
 ```
+### 类型转换
+
+string to int:
+```cpp
+string str1 = "123"; // string
+int a = stoi(str1);
+char str2[] = "123"; // char array
+int b = atoi(str2);
+```
+
+int to string:
+```cpp
+int num = 2;
+string str1 = to_string(num);
+stringstream ss << num; // before c++11
+string str2 = ss.str();
+```
+
 
 ### 常用算法模板
 
@@ -55,5 +73,14 @@ ll lcd(ll a , ll b){return a * b / gcd(a,b);}
 ```
 
 TODO: sort for structs
-
 TODO: prettier for c++
+
+### 数据结构
+
+
+#### map
+
+#### set
+
+
+
