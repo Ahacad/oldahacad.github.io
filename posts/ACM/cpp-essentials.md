@@ -14,8 +14,18 @@ published: true
 
 ### 1. 读入
 ```cpp
+// 读入数字,
 inline ll read(){
     char ch = getchar(); ll x = 0, f = 1;
+    while(ch < '0' || ch > '9') {if(ch == '-') f = -1; ch = getchar();}
+    while('0' <= ch && ch <= '9') {x = x * 10 + ch - '0'; ch = getchar();}
+    return x * f;
+}
+
+// 更通用的模板写法
+template <typename T> 
+inline T read(){
+    char ch = getchar(); T x = 0, f = 1;
     while(ch < '0' || ch > '9') {if(ch == '-') f = -1; ch = getchar();}
     while('0' <= ch && ch <= '9') {x = x * 10 + ch - '0'; ch = getchar();}
     return x * f;
@@ -24,12 +34,23 @@ inline ll read(){
 
 ```cpp
 inline viod write(ll x) {
-    if (x < 0) {
-        putchar('-');
-        x = -x;
-    }
-    if (x > 9) write(x / 10);
-    putchar(x % 10 + '0');
+  static int st[35];
+  int top = 0;
+  do {
+    st[top++] = x % 10, x /= 10;
+  } while (x);
+  while(top)
+    putchar(sta[--top] + 48);
+}
+
+template <class T>
+inline void write(T x) {
+  if (x < 0) x = -x, push('-');  // 负数输出
+  static T sta[35]; T top = 0;
+  do {
+    sta[top++] = x % 10, x /= 10;
+  } while (x);
+  while (top) push(sta[--top] + '0');
 }
 ```
 

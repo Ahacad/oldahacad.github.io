@@ -18,3 +18,7 @@ published: false
 - 想象自己是作者来读书
 - 做好词法分析与构建逻辑树
 
+
+Ref:
+
+- [书魔的学习方法-1:读书的飞轮](https://zhuanlan.zhihu.com/p/55804099?utm_source=zhihu&utm_medium=social&utm_oi=790888706776117248)

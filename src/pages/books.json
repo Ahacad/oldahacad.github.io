@@ -72,6 +72,14 @@
     "readed": false
   },
   {
+    "name": "applied cryptography",
+    "author": "Bruce Schneier",
+    "description": "",
+    "image": "2021/applied cryptography.jpg",
+    "url": "https://book.douban.com/subject/1440002/",
+    "readed": false
+  },
+  {
     "name": "the c programming language",
     "author": "Brian W. Kernighan, Dennis M. Ritchie",
     "description": "",

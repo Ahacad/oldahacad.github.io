@@ -64,6 +64,12 @@ das：删除 a sentence (包含 sentence 后 whitespace)
 dis：删除 inner sentence (不含 sentence 后 whitespace)
 ```
 
+##### Format
+
+```
+gqG: (format)(to the last line)
+```
+
 ##### Visual mode
 
 在 Visual Mode 中:
