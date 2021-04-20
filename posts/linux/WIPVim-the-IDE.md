@@ -10,7 +10,7 @@ mainpanel: true
 published: true
 ---
 
-This post teaches to turn neovim into powerful IDE like editors. I'v
+This post teaches you how to turn neovim into powerful IDE like editors. I'v
 been using neovim to hack for two years! Vim is by far the best editor I
 ever find, because itself is actually not just an editor but **a model**
 for editors, it's like a philosophy, editing based on modes and a great
@@ -24,6 +24,10 @@ tells you how I make neovim (the new-vim) as powerful as VSCode, I've
 been using it to develop large code projects, and I have a better time
 using neovim than VSCode.
 
+Main panel plugins are what you see when opening the editor (they are
+essential build blocks), operational plugins are those that save you
+tons of time, visual plugins make vim more awesome (visually), language
+specific plugins are designed specifically for different programming languages.
 
 plugins:
 - main panel:
@@ -42,6 +46,19 @@ plugins:
   - [vista.vim](https://github.com/liuchengxu/vista.vim): LSP symbols and tags
   - [nerdcommenter](https://github.com/preservim/nerdcommenter): comment easily
   - [auto-pairs](https://github.com/jiangmiao/auto-pairs): auto pair brackets
+  - [suda.vim](https://github.com/lambdalisue/suda.vim): sudo write vim file
+  - [vim-gitgutter](https://github.com/airblade/vim-gitgutter): show git diff marks
+  - [vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks): bookmarks for vim
+  - [vim-visual-increment](https://github.com/triglav/vim-visual-increment): incre/decrease numbers easily with one key
+  - [vim-doge](https://github.com/kkoomen/vim-doge): generate docs quickly
+  - [wildfire.vim](https://github.com/gcmt/wildfire.vim): select closest code quickly
+  - [gv.vim](https://github.com/junegunn/gv.vim): view git graph history in vim
+  - [vim-todo-lists](https://github.com/aserebryakov/vim-todo-lists): manipulate todo lists quickly in markdown
+  - [vim-wakatime]((https://github.com/wakatime/vim-wakatime)): integrate with *wakatime* to count programming time
+  - [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): *EditorConfig* plugin for vim, ensure same editor config in the team
+  - [vim-illuminate](https://github.com/RRethy/vim-illuminate): highlight same words under cursor
 - visuals:
   - [rainbow](https://github.com/luochen1990/rainbow): parentheses with colors
+  - [vim-devicons](https://github.com/ryanoasis/vim-devicons): file type icons for vim
 - language specifics:
+  - [vim-startify](https://github.com/mhinz/vim-startify): awesome vim start page
