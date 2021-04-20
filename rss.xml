@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ahacad's blog]]></title><description><![CDATA[Ahacad's personal blog]]></description><link>https://ahacad.cool</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Apr 2021 12:42:57 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/vim-for-go/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-for-go/</guid><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[design a post card:  reddit douban discourse]]></description><link>https://ahacad.cool/Developing/design-a-forum/</link><guid isPermaLink="false">https://ahacad.cool/Developing/design-a-forum/</guid><content:encoded>&lt;p&gt;design a post card: &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ahacad's blog]]></title><description><![CDATA[Ahacad's personal blog]]></description><link>https://ahacad.cool</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Apr 2021 13:23:51 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/vim-for-go/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-for-go/</guid><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[design a post card:  reddit douban discourse]]></description><link>https://ahacad.cool/Developing/design-a-forum/</link><guid isPermaLink="false">https://ahacad.cool/Developing/design-a-forum/</guid><content:encoded>&lt;p&gt;design a post card: &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/&quot;&gt;reddit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://douban.com&quot;&gt;douban&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.community/&quot;&gt;discourse&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[(WIP) Make Vim An IDE]]></title><description><![CDATA[This post teaches to turn neovim into powerful IDE like editors. I'v
-been using neovim to hack for two years! Vim is by far the best editor…]]></description><link>https://ahacad.cool/linux/WIPVim-the-IDE/</link><guid isPermaLink="false">https://ahacad.cool/linux/WIPVim-the-IDE/</guid><pubDate>Mon, 19 Apr 2021 23:45:58 GMT</pubDate><content:encoded>&lt;p&gt;This post teaches to turn neovim into powerful IDE like editors. I&apos;v
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[(WIP) Make Vim An IDE]]></title><description><![CDATA[This post teaches you how to turn neovim into powerful IDE like editors. I'v
+been using neovim to hack for two years! Vim is by far the best…]]></description><link>https://ahacad.cool/linux/WIPVim-the-IDE/</link><guid isPermaLink="false">https://ahacad.cool/linux/WIPVim-the-IDE/</guid><pubDate>Mon, 19 Apr 2021 23:45:58 GMT</pubDate><content:encoded>&lt;p&gt;This post teaches you how to turn neovim into powerful IDE like editors. I&apos;v
 been using neovim to hack for two years! Vim is by far the best editor I
 ever find, because itself is actually not just an editor but &lt;strong&gt;a model&lt;/strong&gt;
 for editors, it&apos;s like a philosophy, editing based on modes and a great
@@ -17,6 +17,10 @@ powerful as VSCode? My experiences give a positive answer, and this post
 tells you how I make neovim (the new-vim) as powerful as VSCode, I&apos;ve
 been using it to develop large code projects, and I have a better time
 using neovim than VSCode.&lt;/p&gt;
+&lt;p&gt;Main panel plugins are what you see when opening the editor (they are
+essential build blocks), operational plugins are those that save you
+tons of time, visual plugins make vim more awesome (visually), language
+specific plugins are designed specifically for different programming languages.&lt;/p&gt;
 &lt;p&gt;plugins:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -41,15 +45,32 @@ using neovim than VSCode.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/liuchengxu/vista.vim&quot;&gt;vista.vim&lt;/a&gt;: LSP symbols and tags&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/preservim/nerdcommenter&quot;&gt;nerdcommenter&lt;/a&gt;: comment easily&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/jiangmiao/auto-pairs&quot;&gt;auto-pairs&lt;/a&gt;: auto pair brackets&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/lambdalisue/suda.vim&quot;&gt;suda.vim&lt;/a&gt;: sudo write vim file&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/airblade/vim-gitgutter&quot;&gt;vim-gitgutter&lt;/a&gt;: show git diff marks&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/MattesGroeger/vim-bookmarks&quot;&gt;vim-bookmarks&lt;/a&gt;: bookmarks for vim&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/triglav/vim-visual-increment&quot;&gt;vim-visual-increment&lt;/a&gt;: incre/decrease numbers easily with one key&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/kkoomen/vim-doge&quot;&gt;vim-doge&lt;/a&gt;: generate docs quickly&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/gcmt/wildfire.vim&quot;&gt;wildfire.vim&lt;/a&gt;: select closest code quickly&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/junegunn/gv.vim&quot;&gt;gv.vim&lt;/a&gt;: view git graph history in vim&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/aserebryakov/vim-todo-lists&quot;&gt;vim-todo-lists&lt;/a&gt;: manipulate todo lists quickly in markdown&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;(https://github.com/wakatime/vim-wakatime)&quot;&gt;vim-wakatime&lt;/a&gt;: integrate with &lt;em&gt;wakatime&lt;/em&gt; to count programming time&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/editorconfig/editorconfig-vim&quot;&gt;editorconfig-vim&lt;/a&gt;: &lt;em&gt;EditorConfig&lt;/em&gt; plugin for vim, ensure same editor config in the team&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/RRethy/vim-illuminate&quot;&gt;vim-illuminate&lt;/a&gt;: highlight same words under cursor&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;visuals:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/luochen1990/rainbow&quot;&gt;rainbow&lt;/a&gt;: parentheses with colors&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ryanoasis/vim-devicons&quot;&gt;vim-devicons&lt;/a&gt;: file type icons for vim&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;language specifics:&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;language specifics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/mhinz/vim-startify&quot;&gt;vim-startify&lt;/a&gt;: awesome vim start page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Be a 10x developer]]></title><description><![CDATA[There are many clever peolpe in this world, some observe and find
 the meaning of everyday things, like writers and philosophers, some…]]></description><link>https://ahacad.cool/thoughts/WIPBe-a-10x-developer/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/WIPBe-a-10x-developer/</guid><pubDate>Mon, 19 Apr 2021 13:30:35 GMT</pubDate><content:encoded>&lt;p&gt;There are many clever peolpe in this world, some &lt;strong&gt;observe&lt;/strong&gt; and find
 the meaning of everyday things, like writers and philosophers, some
