@@ -10,7 +10,23 @@ mainpanel: true
 published: false
 ---
 
-经典算法题，也就是那些你睡觉突然被叫醒来做这道题也可以立刻做出来的题目。
+经典算法题，也就是那些你睡觉突然被叫醒来做这道题也可以立刻做出来的题目。不少用了
+leetcode，“大神”们可能觉得太 low 了配不上 ACM
+的名号，但是作为基础训练我认为 leetcode 是不错的平台
+
+#### 二分
+我知道你会想：“二分我还不会写！？”
+然而你可能真的不会，二分虽然思想很简单但是边界处理上还是有不少魔鬼细节的，这篇文章总结的比较全面
+[详解二分查找算法](https://www.cnblogs.com/kyoner/p/11080078.html) 
+
+- 基础二分模板：[leetcode 704.binary search](http://localhost:8090/)
+- 找不存在的数的二分：[leetcode 35.search insert position](https://leetcode-cn.com/problems/search-insert-position/): 其实只要在基础模板上稍微改动一点点末端处理即可
+- 带重复区间的二分模板：[leetcode 34.find first and last position of element in sorted array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+扩展一下，二分作为基础算法使用范围非常广:
+- 求平方根：[leetcode 69.sqrtx](https://leetcode-cn.com/problems/sqrtx/)
+- 判断是不是平方根：[leetcode 367.valid perfect square](https://leetcode-cn.com/problems/valid-perfect-square/)
+
 
 #### Topk
 
@@ -18,12 +34,12 @@ published: false
 大的数字。要是排序再取的话面试官会揍死你（bushi)。各种刷题论坛流传甚广的方法是所谓快速选择算法，类似魔改快速排序。
 
 ```cpp
-
 ```
 
-或者也可以用线段树/树状数组
+或者也可以用线段树/树状数组，尤其是树状数组写起来很简单，比起上面快速选择的算法也更容易理解（前提是你已经会了树状数组）
 
-### DP #### 两字符串最长公共字串 
+### DP 
+#### 两字符串最长公共字串 
 
 画一个两字符串矩阵就看得很清楚了
 
