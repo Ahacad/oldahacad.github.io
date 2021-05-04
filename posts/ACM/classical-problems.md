@@ -1,5 +1,4 @@
----
-title: "经典算法题"
+---title: "经典算法题"
 date: "2021-04-11 23:18:09"
 author: ahacad
 category: "acm"
@@ -17,7 +16,12 @@ leetcode，“大神”们可能觉得太 low 了配不上 ACM
 #### 二分
 我知道你会想：“二分我还不会写！？”
 然而你可能真的不会，二分虽然思想很简单但是边界处理上还是有不少魔鬼细节的，这篇文章总结的比较全面
-[详解二分查找算法](https://www.cnblogs.com/kyoner/p/11080078.html) 
+[详解二分查找算法](https://www.cnblogs.com/kyoner/p/11080078.html)
+。当然标准库 `<algorithm>` 里面已经包含了 `std::binary_search`, 
+`std::upper_bound`, `std::lower_bound`
+模板题目刷好了之后可以直接调用，但是一定要去弄清楚原理，因为你不知道哪一天会需要自己魔改二分
+
+
 
 - 基础二分模板：[leetcode 704.binary search](http://localhost:8090/)
 - 找不存在的数的二分：[leetcode 35.search insert position](https://leetcode-cn.com/problems/search-insert-position/): 其实只要在基础模板上稍微改动一点点末端处理即可
@@ -27,6 +31,16 @@ leetcode，“大神”们可能觉得太 low 了配不上 ACM
 - 求平方根：[leetcode 69.sqrtx](https://leetcode-cn.com/problems/sqrtx/)
 - 判断是不是平方根：[leetcode 367.valid perfect square](https://leetcode-cn.com/problems/valid-perfect-square/)
 
+来上水题:
+- [luogu P1873 砍树](https://www.luogu.com.cn/problem/P1873): 找右边界
+
+#### 快慢指针 
+
+快慢指针也很常见的。
+
+- 删除特定元素 [leetcode 27.remove element](https://leetcode-cn.com/problems/remove-element/)
+- 删除重复元素 [leetcode 26.remove duplicates from sorted array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+- 把特定元素移到末尾（本质就是删除） [leetcode 283.move zeroes](https://leetcode-cn.com/problems/move-zeroes/)
 
 #### Topk
 
