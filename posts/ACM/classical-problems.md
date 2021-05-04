@@ -34,6 +34,14 @@ leetcode，“大神”们可能觉得太 low 了配不上 ACM
 来上水题:
 - [luogu P1873 砍树](https://www.luogu.com.cn/problem/P1873): 找右边界
 
+#### 滑动窗口
+
+著名的滑动窗口
+
+- 滑动窗口模板 [leetcode 209.minimum size subarray sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
+- 需要计数的滑动窗口 [leetcode 904.fruit into baskets](https://leetcode-cn.com/problems/fruit-into-baskets/submissions/)
+- 需要计数的滑动窗口 [leetcode 76.minimum window substring](https://leetcode-cn.com/problems/fruit-into-baskets/submissions/)
+
 #### 快慢指针 
 
 快慢指针也很常见的。
@@ -41,6 +49,8 @@ leetcode，“大神”们可能觉得太 low 了配不上 ACM
 - 删除特定元素 [leetcode 27.remove element](https://leetcode-cn.com/problems/remove-element/)
 - 删除重复元素 [leetcode 26.remove duplicates from sorted array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 - 把特定元素移到末尾（本质就是删除） [leetcode 283.move zeroes](https://leetcode-cn.com/problems/move-zeroes/)
+- 变成两个数组的指针了，此题需稍稍转弯 [leetcode 844.backspace string compare](https://leetcode-cn.com/problems/backspace-string-compare/)
+- 也是双指针，头尾 [leetcode 977.squares of a sorted array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
 
 #### Topk
 
