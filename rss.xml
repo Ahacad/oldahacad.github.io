@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ahacad's blog]]></title><description><![CDATA[Ahacad's personal blog]]></description><link>https://ahacad.cool</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 28 Apr 2021 16:27:18 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/vim-for-go/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-for-go/</guid><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[design a post card:  reddit douban discourse]]></description><link>https://ahacad.cool/Developing/design-a-forum/</link><guid isPermaLink="false">https://ahacad.cool/Developing/design-a-forum/</guid><content:encoded>&lt;p&gt;design a post card: &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ahacad's blog]]></title><description><![CDATA[Ahacad's personal blog]]></description><link>https://ahacad.cool</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 07 May 2021 11:16:44 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/vim-for-go/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-for-go/</guid><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[design a post card:  reddit douban discourse]]></description><link>https://ahacad.cool/Developing/design-a-forum/</link><guid isPermaLink="false">https://ahacad.cool/Developing/design-a-forum/</guid><content:encoded>&lt;p&gt;design a post card: &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/&quot;&gt;reddit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://douban.com&quot;&gt;douban&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.community/&quot;&gt;discourse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[本科四年，你需要读的书不少]]></title><description><![CDATA[计算机本科四年，你需要读非常多的经典书籍，建立对整个计算机领域的认识 数学 说实话做正统计算机研究还是需要不少数学的，主要和代数相关  离散数学 说是离散数学，但是要学的东西很多，集合论、图论、抽代、数理逻辑 抽象代数]]></description><link>https://ahacad.cool/thoughts/WIPBooks-for-CS-major/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/WIPBooks-for-CS-major/</guid><pubDate>Mon, 03 May 2021 21:17:59 GMT</pubDate><content:encoded>&lt;p&gt;计算机本科四年，你需要读非常多的经典书籍，建立对整个计算机领域的认识&lt;/p&gt;
+&lt;h3&gt;数学&lt;/h3&gt;
+&lt;p&gt;说实话做正统计算机研究还是需要不少数学的，主要和代数相关 &lt;/p&gt;
+&lt;h4&gt;离散数学&lt;/h4&gt;
+&lt;p&gt;说是离散数学，但是要学的东西很多，集合论、图论、抽代、数理逻辑&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;抽象代数 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[(WIP) CSS 经典使用总结一下]]></title><description><![CDATA[CSS 奇技淫巧很多，但是实际工作中使用到的 80%
 还是有迹可循的，来总结一下。 Block 对齐]]></description><link>https://ahacad.cool/Developing/WIPCSS-essentials/</link><guid isPermaLink="false">https://ahacad.cool/Developing/WIPCSS-essentials/</guid><pubDate>Thu, 22 Apr 2021 19:08:09 GMT</pubDate><content:encoded>&lt;p&gt;CSS 奇技淫巧很多，但是实际工作中使用到的 80%
 还是有迹可循的，来总结一下。&lt;/p&gt;
@@ -92,7 +99,10 @@ leetcode，“大神”们可能觉得太 low 了配不上 ACM
 &lt;h4&gt;二分&lt;/h4&gt;
 &lt;p&gt;我知道你会想：“二分我还不会写！？”
 然而你可能真的不会，二分虽然思想很简单但是边界处理上还是有不少魔鬼细节的，这篇文章总结的比较全面
-&lt;a href=&quot;https://www.cnblogs.com/kyoner/p/11080078.html&quot;&gt;详解二分查找算法&lt;/a&gt; &lt;/p&gt;
+&lt;a href=&quot;https://www.cnblogs.com/kyoner/p/11080078.html&quot;&gt;详解二分查找算法&lt;/a&gt;
+。当然标准库 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;algorithm&amp;gt;&lt;/code&gt; 里面已经包含了 &lt;code class=&quot;language-text&quot;&gt;std::binary_search&lt;/code&gt;,
+&lt;code class=&quot;language-text&quot;&gt;std::upper_bound&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;std::lower_bound&lt;/code&gt;
+模板题目刷好了之后可以直接调用，但是一定要去弄清楚原理，因为你不知道哪一天会需要自己魔改二分&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;基础二分模板：&lt;a href=&quot;http://localhost:8090/&quot;&gt;leetcode 704.binary search&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;找不存在的数的二分：&lt;a href=&quot;https://leetcode-cn.com/problems/search-insert-position/&quot;&gt;leetcode 35.search insert position&lt;/a&gt;: 其实只要在基础模板上稍微改动一点点末端处理即可&lt;/li&gt;
@@ -102,6 +112,26 @@ leetcode，“大神”们可能觉得太 low 了配不上 ACM
 &lt;ul&gt;
 &lt;li&gt;求平方根：&lt;a href=&quot;https://leetcode-cn.com/problems/sqrtx/&quot;&gt;leetcode 69.sqrtx&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;判断是不是平方根：&lt;a href=&quot;https://leetcode-cn.com/problems/valid-perfect-square/&quot;&gt;leetcode 367.valid perfect square&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;来上水题:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P1873&quot;&gt;luogu P1873 砍树&lt;/a&gt;: 找右边界&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;滑动窗口&lt;/h4&gt;
+&lt;p&gt;著名的滑动窗口&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;滑动窗口模板 &lt;a href=&quot;https://leetcode-cn.com/problems/minimum-size-subarray-sum/&quot;&gt;leetcode 209.minimum size subarray sum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;需要计数的滑动窗口 &lt;a href=&quot;https://leetcode-cn.com/problems/fruit-into-baskets/submissions/&quot;&gt;leetcode 904.fruit into baskets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;需要计数的滑动窗口 &lt;a href=&quot;https://leetcode-cn.com/problems/fruit-into-baskets/submissions/&quot;&gt;leetcode 76.minimum window substring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;快慢指针&lt;/h4&gt;
+&lt;p&gt;快慢指针也很常见的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;删除特定元素 &lt;a href=&quot;https://leetcode-cn.com/problems/remove-element/&quot;&gt;leetcode 27.remove element&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;删除重复元素 &lt;a href=&quot;https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/&quot;&gt;leetcode 26.remove duplicates from sorted array&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;把特定元素移到末尾（本质就是删除） &lt;a href=&quot;https://leetcode-cn.com/problems/move-zeroes/&quot;&gt;leetcode 283.move zeroes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;变成两个数组的指针了，此题需稍稍转弯 &lt;a href=&quot;https://leetcode-cn.com/problems/backspace-string-compare/&quot;&gt;leetcode 844.backspace string compare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;也是双指针，头尾 &lt;a href=&quot;https://leetcode-cn.com/problems/squares-of-a-sorted-array/&quot;&gt;leetcode 977.squares of a sorted array&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Topk&lt;/h4&gt;
 &lt;p&gt;这个很经典了，求数组里第 k
@@ -291,8 +321,8 @@ pacman -Sg abc                  #查询abc这个包组包含的软件包&lt;/p&g
 | Singapore | DBS              |    |    |
 | Singapore | OCBC             |    |    |
 | Singapore | UOB              |    |    |
-| Singapore | standard charted |    |    |&lt;/p&gt;</content:encoded></item><item><title><![CDATA[重学 Vim (WIP)]]></title><description><![CDATA[前言 用人说用 vim 装逼，我想说确实装逼，但是更重要的是，客观上来说手指不离开键盘去弄鼠标和触摸板的确就是效率更高的，每次省下的这一两秒时间通过累计效应放大最后会有相当可观的效果；现代 vim (neovim) 在 coc 和 lsp (language support…]]></description><link>https://ahacad.cool/linux/vim-relearn/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-relearn/</guid><pubDate>Thu, 25 Mar 2021 18:54:06 GMT</pubDate><content:encoded>&lt;h3&gt;前言&lt;/h3&gt;
-&lt;p&gt;用人说用 vim 装逼，我想说确实装逼，但是更重要的是，客观上来说手指不离开键盘去弄鼠标和触摸板的确就是效率更高的，每次省下的这一两秒时间通过累计效应放大最后会有相当可观的效果；现代 vim (neovim) 在 coc 和 lsp (language support protocol) 的帮助下完全可以胜任日常开发，vim 对各种语言实现插件的支持(vimscript, TypeScript, python, rust, etc.) 也意味着被很多人吹捧的 VSCode 插件可以通过一些转化被 neovim 完全吸收使用，我不否认有一些事情是现代 GUI 才能做到的，但是考虑到VSCode 跑起来的 cpu 和 RAM 消耗以及带来的微小收益，我仍然会使用 neovim 作为自己的主力编辑器。&lt;/p&gt;
+| Singapore | standard charted |    |    |&lt;/p&gt;</content:encoded></item><item><title><![CDATA[重学 Vim (WIP)]]></title><description><![CDATA[前言 用人说用 vim 装逼，我想说确实装逼，但是更重要的是，客观上手指不离开键盘去弄鼠标和触摸板的确就是效率更高的，每次省下的这一两秒时间通过累计效应放大最后会有相当可观的效果；现代 vim (neovim) 在 coc 和 lsp (language support…]]></description><link>https://ahacad.cool/linux/vim-relearn/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-relearn/</guid><pubDate>Thu, 25 Mar 2021 18:54:06 GMT</pubDate><content:encoded>&lt;h3&gt;前言&lt;/h3&gt;
+&lt;p&gt;用人说用 vim 装逼，我想说确实装逼，但是更重要的是，客观上手指不离开键盘去弄鼠标和触摸板的确就是效率更高的，每次省下的这一两秒时间通过累计效应放大最后会有相当可观的效果；现代 vim (neovim) 在 coc 和 lsp (language support protocol) 的帮助下完全可以胜任日常开发，vim 对各种语言实现插件的支持(vimscript, TypeScript, python, rust, etc.) 也意味着被很多人吹捧的 VSCode 插件可以通过一些转化被 neovim 完全吸收使用，我不否认有一些事情是现代 GUI 才能做到的，但是考虑到VSCode 跑起来的 cpu 和 RAM 消耗以及带来的微小收益，我仍然会使用 neovim 作为自己的主力编辑器。&lt;/p&gt;
 &lt;p&gt;但是！在用了 vim -&gt; neovim 约莫两年后，配了几十个插件后，我还是发现自己竟然平时只使用一些及其常见的操作(&quot;w&quot;, &quot;q&quot;, &quot;a&quot;, &quot;i&quot;, etc. 差不多就是入门时候学得)，完全没有发挥出 vim 的能力。特此重新学习，释放 vim (neovim) 的威力。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;基础复习&lt;/h3&gt;
@@ -331,7 +361,7 @@ O&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 跳到同一行�
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;TOhtml&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 转化当前文件为 html&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;第一次看到这个功能的我惊了，非常强大。&lt;/p&gt;
 &lt;h5&gt;编辑多个文件&lt;/h5&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;file&lt;/span&gt; newname&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 改当前文章名字&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;file&lt;/span&gt; newname&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 改当前文件名字&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h5&gt;分屏&lt;/h5&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;only&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 关掉除了当前屏幕外的所有屏幕
 &lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;qall&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 退出所有屏幕
@@ -341,6 +371,7 @@ O&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 跳到同一行�
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;vim&lt;/span&gt; -d file1 file2: &lt;span class=&quot;token function&quot;&gt;diff&lt;/span&gt; 模式打开文件&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;或者在 vim 中进入 diff&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;vertical&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;diffsplit&lt;/span&gt; anotherfile&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;&lt;/h3&gt;
 &lt;h3&gt;References&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://neovim.io/doc/user/&quot;&gt;neovim.io user manual&lt;/a&gt;: 你也可以在 Unix 系统的 &lt;code class=&quot;language-text&quot;&gt;/usr/share/nvim/runtime/doc&lt;/code&gt; 找到所有的文档&lt;/li&gt;
@@ -349,8 +380,8 @@ O&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 跳到同一行�
 &lt;p&gt;直接使用 Scanf 因为缺少缓存的原因会有很严重的效率问题，我一开始用 Golang 写 OJ 的时候没有意识到，结果连 50 个 tests 的点都跑不过。。参考这篇&lt;a href=&quot;https://www.reddit.com/r/golang/comments/b3v3ud/alternatives_to_scanf/&quot;&gt;帖子&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;in := bufio.NewReader(os.Stdin)
 fmt.Fscanf(in, &amp;quot;%d&amp;quot;, &amp;amp;n)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;注意 Golang 的 &lt;code class=&quot;language-text&quot;&gt;Scanf&lt;/code&gt; 会把 newline 当成 0，所以你需要手动加上 &lt;code class=&quot;language-text&quot;&gt;\n&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[PDL: problem driven learning || project driven learning]]></description><link>https://ahacad.cool/thoughts/PDL/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/PDL/</guid><pubDate>Sun, 21 Mar 2021 17:05:58 GMT</pubDate><content:encoded>&lt;p&gt;PDL: problem driven learning || project driven learning&lt;/p&gt;</content:encoded></item><item><title><![CDATA[常用 C++ 操作整理 (WIP)]]></title><description><![CDATA[整理一些常用的 C++ 使用场景。本页面会时常更新。 1. 读入 文件操作 宏与常数 类型转换 string to int: int to string: 常用算法模板 gcd TODO: explaining  TODO: sort for structs
-TODO…]]></description><link>https://ahacad.cool/ACM/cpp-essentials/</link><guid isPermaLink="false">https://ahacad.cool/ACM/cpp-essentials/</guid><pubDate>Sun, 21 Mar 2021 14:41:30 GMT</pubDate><content:encoded>&lt;p&gt;整理一些常用的 C++ 使用场景。本页面会时常更新。&lt;/p&gt;
+&lt;p&gt;注意 Golang 的 &lt;code class=&quot;language-text&quot;&gt;Scanf&lt;/code&gt; 会把 newline 当成 0，所以你需要手动加上 &lt;code class=&quot;language-text&quot;&gt;\n&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[PDL: problem driven learning || project driven learning]]></description><link>https://ahacad.cool/thoughts/PDL/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/PDL/</guid><pubDate>Sun, 21 Mar 2021 17:05:58 GMT</pubDate><content:encoded>&lt;p&gt;PDL: problem driven learning || project driven learning&lt;/p&gt;</content:encoded></item><item><title><![CDATA[常用 C++ 操作整理 (WIP)]]></title><description><![CDATA[整理一些常用的 C++ 使用场景。本页面会时常更新。 TODO: 数组初始化  1. 读入 文件操作 宏与常数 类型转换 string to int: int to string: 常用算法模板 gcd TODO: explaining  TODO: sort for…]]></description><link>https://ahacad.cool/ACM/cpp-essentials/</link><guid isPermaLink="false">https://ahacad.cool/ACM/cpp-essentials/</guid><pubDate>Sun, 21 Mar 2021 14:41:30 GMT</pubDate><content:encoded>&lt;p&gt;整理一些常用的 C++ 使用场景。本页面会时常更新。&lt;/p&gt;
+&lt;p&gt;TODO: 数组初始化 &lt;/p&gt;
 &lt;h3&gt;1. 读入&lt;/h3&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;cpp&quot;&gt;&lt;pre class=&quot;language-cpp&quot;&gt;&lt;code class=&quot;language-cpp&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// 读入数字,&lt;/span&gt;
 &lt;span class=&quot;token keyword&quot;&gt;inline&lt;/span&gt; ll &lt;span class=&quot;token function&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
