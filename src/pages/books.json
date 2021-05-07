@@ -132,6 +132,14 @@
     "readed": false
   },
   {
+    "name": "an introdution to mathematical cryptography",
+    "author": "Hoffstein, Piher, Silverman",
+    "description": "",
+    "image": "2021/an introduction to mathematical cryptography.jpg",
+    "url": "https://book.douban.com/subject/3746706/",
+    "readed": false
+  },
+  {
     "name": "you don't know js yet - get started",
     "author": "Kyle Simpson",
     "description": "",
@@ -374,6 +382,30 @@
     "description": "",
     "image": "2021/the go programming language.jpg",
     "url": "https://book.douban.com/subject/26337545/",
+    "readed": false
+  },
+  {
+    "name": "expert c programming",
+    "author": "Peter van der Linden",
+    "description": "",
+    "image": "2021/expert c programming.jpg",
+    "url": "https://book.douban.com/subject/1784687/",
+    "readed": false
+  },
+  {
+    "name": "c traps and pitfalls",
+    "author": "Andrew Koenig",
+    "description": "",
+    "image": "2021/c traps and pitfalls.jpg",
+    "url": "https://book.douban.com/subject/1463391/",
+    "readed": false
+  },
+  {
+    "name": "pointers in c",
+    "author": "Kenneth Reek",
+    "description": "",
+    "image": "2021/pointers in c.jpg",
+    "url": "https://book.douban.com/subject/1648645/",
     "readed": false
   },
   {
