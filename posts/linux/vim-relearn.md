@@ -20,6 +20,9 @@ published: true
 
 ### 基础复习
 
+这篇文章重点不是基础，只稍微讲讲，具体可以参考 [MIT Missing semester: Vim](https://missing.csail.mit.edu/2020/editors/), 这个 [up 主的视频: theniceboy](https://www.bilibili.com/video/BV164411P7tw)，以及自带的 vimtutor。
+
+
 
 ### 重学 vim
 
