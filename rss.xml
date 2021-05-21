@@ -1,17 +1,114 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ahacad's blog]]></title><description><![CDATA[Ahacad's personal blog]]></description><link>https://ahacad.cool</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 07 May 2021 11:16:44 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/vim-for-go/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-for-go/</guid><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[design a post card:  reddit douban discourse]]></description><link>https://ahacad.cool/Developing/design-a-forum/</link><guid isPermaLink="false">https://ahacad.cool/Developing/design-a-forum/</guid><content:encoded>&lt;p&gt;design a post card: &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ahacad's blog]]></title><description><![CDATA[Ahacad's personal blog]]></description><link>https://ahacad.cool</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 21 May 2021 14:00:53 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/vim-for-go/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-for-go/</guid><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[design a post card:  reddit douban discourse]]></description><link>https://ahacad.cool/developing/design-a-forum/</link><guid isPermaLink="false">https://ahacad.cool/developing/design-a-forum/</guid><content:encoded>&lt;p&gt;design a post card: &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/&quot;&gt;reddit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://douban.com&quot;&gt;douban&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.community/&quot;&gt;discourse&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[本科四年，你需要读的书不少]]></title><description><![CDATA[计算机本科四年，你需要读非常多的经典书籍，建立对整个计算机领域的认识 数学 说实话做正统计算机研究还是需要不少数学的，主要和代数相关  离散数学 说是离散数学，但是要学的东西很多，集合论、图论、抽代、数理逻辑 抽象代数]]></description><link>https://ahacad.cool/thoughts/WIPBooks-for-CS-major/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/WIPBooks-for-CS-major/</guid><pubDate>Mon, 03 May 2021 21:17:59 GMT</pubDate><content:encoded>&lt;p&gt;计算机本科四年，你需要读非常多的经典书籍，建立对整个计算机领域的认识&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[计算理论学习综述]]></title><description><![CDATA[方法]]></description><link>https://ahacad.cool/summaries/WIP-computability/</link><guid isPermaLink="false">https://ahacad.cool/summaries/WIP-computability/</guid><pubDate>Tue, 18 May 2021 19:02:27 GMT</pubDate><content:encoded>&lt;h3&gt;方法&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[Rust 学习综述]]></title><description><![CDATA[方法 rust learning]]></description><link>https://ahacad.cool/summaries/WIP-rust-learning/</link><guid isPermaLink="false">https://ahacad.cool/summaries/WIP-rust-learning/</guid><pubDate>Tue, 18 May 2021 19:02:27 GMT</pubDate><content:encoded>&lt;h3&gt;方法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ctjhoa/rust-learning#rust-in-practice&quot;&gt;rust learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[前端面试综述]]></title><description><![CDATA[说说 大厂对于面试的题目要求是既有比较严格的把控、又有面试官自己的发挥，总的来说还是有不少套路可以寻的 方法]]></description><link>https://ahacad.cool/summaries/WIP-frontend-interview/</link><guid isPermaLink="false">https://ahacad.cool/summaries/WIP-frontend-interview/</guid><pubDate>Tue, 18 May 2021 09:43:42 GMT</pubDate><content:encoded>&lt;h3&gt;说说&lt;/h3&gt;
+&lt;p&gt;大厂对于面试的题目要求是既有比较严格的把控、又有面试官自己的发挥，总的来说还是有不少套路可以寻的&lt;/p&gt;
+&lt;h3&gt;方法&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[如何培养科研能力综述]]></title><description><![CDATA[调查方法 zhihu.com，搜索关键词：“培养科研能力”]]></description><link>https://ahacad.cool/summaries/WIP-research-skills/</link><guid isPermaLink="false">https://ahacad.cool/summaries/WIP-research-skills/</guid><pubDate>Mon, 17 May 2021 22:33:35 GMT</pubDate><content:encoded>&lt;h3&gt;调查方法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;zhihu.com，搜索关键词：“培养科研能力”&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[数据库学习综述]]></title><description><![CDATA[方法 搜索 随机整理 课程 UW: CSE 414, intro to data management 文章 morning paper: database techniques that everybody should know]]></description><link>https://ahacad.cool/summaries/WIP-database-learning/</link><guid isPermaLink="false">https://ahacad.cool/summaries/WIP-database-learning/</guid><pubDate>Mon, 17 May 2021 12:27:34 GMT</pubDate><content:encoded>&lt;h3&gt;方法&lt;/h3&gt;
+&lt;h4&gt;搜索&lt;/h4&gt;
+&lt;h4&gt;随机整理&lt;/h4&gt;
+&lt;h3&gt;课程&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; &lt;a href=&quot;https://sites.google.com/cs.washington.edu/cse414-2019au/home&quot;&gt;UW: CSE 414, intro to data management&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;文章&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.acolyer.org/2016/01/03/database-techiques-everyone-should-know/&quot;&gt;morning paper: database techniques that everybody should know&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[计算机学位课程综述]]></title><description><![CDATA[方法 查看知名大学计算机学院主页 CMU]]></description><link>https://ahacad.cool/summaries/WIP-computer-science-degree/</link><guid isPermaLink="false">https://ahacad.cool/summaries/WIP-computer-science-degree/</guid><pubDate>Sun, 16 May 2021 14:54:08 GMT</pubDate><content:encoded>&lt;h3&gt;方法&lt;/h3&gt;
+&lt;p&gt;查看知名大学计算机学院主页&lt;/p&gt;
+&lt;ul&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; &lt;a href=&quot;https://csd.cmu.edu&quot;&gt;CMU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[函数式编程学习综述]]></title><description><![CDATA[调查方法：网络搜索 www.zhihu.com:  关键词: “函数式编程”, "学习 函数式编程"，筛选规则：浏览过万、有优质回答 Zhihu 结果 主要分为两类，具体如何学习的，以及关于函数式编程的思想、历史 如何学习 1-4 思想历史 5-12 References…]]></description><link>https://ahacad.cool/summaries/WIP-functional-programming/</link><guid isPermaLink="false">https://ahacad.cool/summaries/WIP-functional-programming/</guid><pubDate>Sun, 16 May 2021 14:47:22 GMT</pubDate><content:encoded>&lt;p&gt;调查方法：网络搜索&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;www.zhihu.com: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;关键词: “函数式编程”, &quot;学习 函数式编程&quot;，筛选规则：浏览过万、有优质回答&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Zhihu 结果&lt;/h3&gt;
+&lt;p&gt;主要分为两类，具体如何学习的，以及关于函数式编程的思想、历史&lt;/p&gt;
+&lt;h4&gt;如何学习&lt;/h4&gt;
+&lt;p&gt;[1]-[4]&lt;/p&gt;
+&lt;h4&gt;思想历史&lt;/h4&gt;
+&lt;p&gt;[5]-[12]&lt;/p&gt;
+&lt;h2&gt;References&lt;/h2&gt;
+&lt;p&gt;[1]“如何掌握函数式编程？ - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/21410150&quot;&gt;https://www.zhihu.com/question/21410150&lt;/a&gt; (accessed May 16, 2021).
+[2]“怎么学习函数式编程? - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/336788253/answer/767569976&quot;&gt;https://www.zhihu.com/question/336788253/answer/767569976&lt;/a&gt; (accessed May 16, 2021).
+[3]“想要理解函数式编程的思想，最好用哪种函数式编程语言入门？ - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/48415751/answer/110760961&quot;&gt;https://www.zhihu.com/question/48415751/answer/110760961&lt;/a&gt; (accessed May 16, 2021).
+[4]“有哪些讲编程范式的好书或好文？ - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/50556311/answer/121664484&quot;&gt;https://www.zhihu.com/question/50556311/answer/121664484&lt;/a&gt; (accessed May 16, 2021).
+[5]“为什么国外大学计算机系本科生培养如此强调函数式编程？ - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/450773131/answer/1807321110&quot;&gt;https://www.zhihu.com/question/450773131/answer/1807321110&lt;/a&gt; (accessed May 16, 2021).
+[6]“为什么这两年函数式编程又火起来了？ - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/30190384&quot;&gt;https://www.zhihu.com/question/30190384&lt;/a&gt; (accessed May 16, 2021).
+[7]“什么是 Functional Programming？ - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/448520007&quot;&gt;https://www.zhihu.com/question/448520007&lt;/a&gt; (accessed May 16, 2021).
+[8]“什么是函数式编程思维？ - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/28292740/answer/100284611&quot;&gt;https://www.zhihu.com/question/28292740/answer/100284611&lt;/a&gt; (accessed May 16, 2021).
+[9]“函数式编程（Functional Programming）相比面向对象编程（Object-oriented Programming）有哪些优缺点？ - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/19732025/answer/36771857&quot;&gt;https://www.zhihu.com/question/19732025/answer/36771857&lt;/a&gt; (accessed May 16, 2021).
+[10]“如何学好Scala？请给出一条科学的时间线 - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/26707124/answer/36476090&quot;&gt;https://www.zhihu.com/question/26707124/answer/36476090&lt;/a&gt; (accessed May 16, 2021).
+[11] 想要理解函数式编程的思想，最好用哪种函数式编程语言入门？ - 知乎.” &lt;a href=&quot;https://www.zhihu.com/question/48415751&quot;&gt;https://www.zhihu.com/question/48415751&lt;/a&gt; (accessed May 16, 2021).
+[12]“函数式编程的早期历史,” 知乎专栏. &lt;a href=&quot;https://zhuanlan.zhihu.com/p/24648375&quot;&gt;https://zhuanlan.zhihu.com/p/24648375&lt;/a&gt; (accessed May 16, 2021).&lt;/p&gt;</content:encoded></item><item><title><![CDATA[总结一下学习抽代]]></title><link>https://ahacad.cool/Math/summary-on-learning-abstract-algebra/</link><guid isPermaLink="false">https://ahacad.cool/Math/summary-on-learning-abstract-algebra/</guid><pubDate>Sun, 16 May 2021 11:55:08 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[C Tools]]></title><description><![CDATA[名字 用途 ldd 查看 dynamic libraries nm 查看 symbol tables sum 查看 checksum & blockcount strings 查看 strings file 查看文件类型、包含的东西 time 统计运行时间]]></description><link>https://ahacad.cool/linux/c-tools/</link><guid isPermaLink="false">https://ahacad.cool/linux/c-tools/</guid><pubDate>Fri, 14 May 2021 11:42:00 GMT</pubDate><content:encoded>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名字&lt;/th&gt;
+&lt;th&gt;用途&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ldd&lt;/td&gt;
+&lt;td&gt;查看 dynamic libraries&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;nm&lt;/td&gt;
+&lt;td&gt;查看 symbol tables&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sum&lt;/td&gt;
+&lt;td&gt;查看 checksum &amp;#x26; blockcount&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;strings&lt;/td&gt;
+&lt;td&gt;查看 strings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;file&lt;/td&gt;
+&lt;td&gt;查看文件类型、包含的东西&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;time&lt;/td&gt;
+&lt;td&gt;统计运行时间&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content:encoded></item><item><title><![CDATA[JavaScript 仓库源码阅读]]></title><description><![CDATA[来整理一下平时阅读的 JavaScript 源码。 snapdrop 类似 airdrop，快速在不同设备间传输，用到了 WebSockets、Node 后端、Docker、PWA。 这个仓库比较简单，总代码量 2k LoC 左右，四个主文件夹分别放不同模块： client…]]></description><link>https://ahacad.cool/developing/JS-source-code/</link><guid isPermaLink="false">https://ahacad.cool/developing/JS-source-code/</guid><pubDate>Fri, 14 May 2021 10:31:43 GMT</pubDate><content:encoded>&lt;p&gt;来整理一下平时阅读的 JavaScript 源码。&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/RobinLinus/snapdrop&quot;&gt;snapdrop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;类似 airdrop，快速在不同设备间传输，用到了 WebSockets、Node 后端、Docker、PWA。&lt;/p&gt;
+&lt;p&gt;这个仓库比较简单，总代码量 2k LoC 左右，四个主文件夹分别放不同模块：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;client: 前端，没有任何框架，手撸的&lt;/li&gt;
+&lt;li&gt;server: 后端&lt;/li&gt;
+&lt;li&gt;docker: 启动 docker 的一些文件&lt;/li&gt;
+&lt;li&gt;doc: 文档&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Vue 技术栈]]></title><description><![CDATA[Vue 生态下有很多好用的工具，本文来梳理一下。]]></description><link>https://ahacad.cool/developing/the-vue-techstack/</link><guid isPermaLink="false">https://ahacad.cool/developing/the-vue-techstack/</guid><pubDate>Thu, 13 May 2021 14:37:35 GMT</pubDate><content:encoded>&lt;p&gt;Vue 生态下有很多好用的工具，本文来梳理一下。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[维护你的知识]]></title><description><![CDATA[网络上有个广为流传的笑话，“到我的收藏夹里去吃灰吧！” 如何解决？积极维护自己的收藏夹，并让其自然生长。]]></description><link>https://ahacad.cool/thoughts/maintain-your-knowledge/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/maintain-your-knowledge/</guid><pubDate>Tue, 11 May 2021 14:38:39 GMT</pubDate><content:encoded>&lt;p&gt;网络上有个广为流传的笑话，“到我的收藏夹里去吃灰吧！”&lt;/p&gt;
+&lt;p&gt;如何解决？积极维护自己的收藏夹，并让其自然生长。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[写写前端常见的面试题]]></title><description><![CDATA[手写 instanceof]]></description><link>https://ahacad.cool/developing/frontend-essentials-problems/</link><guid isPermaLink="false">https://ahacad.cool/developing/frontend-essentials-problems/</guid><pubDate>Mon, 10 May 2021 19:12:37 GMT</pubDate><content:encoded>&lt;h3&gt;手写 instanceof&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[专注的力量]]></title><link>https://ahacad.cool/thoughts/the-power-of-focus/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/the-power-of-focus/</guid><pubDate>Sun, 09 May 2021 20:16:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[本科四年，你需要读的书不少]]></title><description><![CDATA[…]]></description><link>https://ahacad.cool/thoughts/WIPBooks-for-CS-major/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/WIPBooks-for-CS-major/</guid><pubDate>Mon, 03 May 2021 21:17:59 GMT</pubDate><content:encoded>&lt;p&gt;计算机本科四年，你需要读非常多的经典书籍，建立对整个计算机领域的认识&lt;/p&gt;
 &lt;h3&gt;数学&lt;/h3&gt;
 &lt;p&gt;说实话做正统计算机研究还是需要不少数学的，主要和代数相关 &lt;/p&gt;
 &lt;h4&gt;离散数学&lt;/h4&gt;
-&lt;p&gt;说是离散数学，但是要学的东西很多，集合论、图论、抽代、数理逻辑&lt;/p&gt;
+&lt;p&gt;说是离散数学，但是要学的东西很多，集合论、图论、抽代、数理逻辑、泛代数。我上学的时候老师抽代讲得比较烂，书也比较烂，只好自己去找书看，但其实学数学很重要的是
+做题，下面有两本习题册一共约 800
+题，全部搞完对付计算机系的抽代考试应该可以横着走了。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;抽象代数 &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://book.douban.com/subject/3746706/&quot;&gt;An Introduction to Mathematical Cryptography (UTM)&lt;/a&gt;: 我上抽代的老师是做密码学的，但是他一点也没有讲密码学的结合。。。。这本书里面扼要地讲了群环域，其他使用部分也很值得看&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://book.douban.com/subject/1532222/&quot;&gt;抽象代数习题解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://book.douban.com/subject/4289834/&quot;&gt;近世代数 300 题&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[(WIP) CSS 经典使用总结一下]]></title><description><![CDATA[CSS 奇技淫巧很多，但是实际工作中使用到的 80%
-还是有迹可循的，来总结一下。 Block 对齐]]></description><link>https://ahacad.cool/Developing/WIPCSS-essentials/</link><guid isPermaLink="false">https://ahacad.cool/Developing/WIPCSS-essentials/</guid><pubDate>Thu, 22 Apr 2021 19:08:09 GMT</pubDate><content:encoded>&lt;p&gt;CSS 奇技淫巧很多，但是实际工作中使用到的 80%
+还是有迹可循的，来总结一下。 Block 对齐]]></description><link>https://ahacad.cool/developing/WIPCSS-essentials/</link><guid isPermaLink="false">https://ahacad.cool/developing/WIPCSS-essentials/</guid><pubDate>Thu, 22 Apr 2021 19:08:09 GMT</pubDate><content:encoded>&lt;p&gt;CSS 奇技淫巧很多，但是实际工作中使用到的 80%
 还是有迹可循的，来总结一下。&lt;/p&gt;
 &lt;h4&gt;Block 对齐&lt;/h4&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;float: right
@@ -91,14 +188,14 @@ the meaning of everyday things, like writers and philosophers, some
 Developers, however, focus on &lt;strong&gt;actions&lt;/strong&gt;, they don&apos;t just learn
 theories, they put what they learn from books into programs, into
 everyday things, into companies, and into anything you can ever think
-of.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Express 源码分析]]></title><link>https://ahacad.cool/Developing/express-sourcecode-breakup/</link><guid isPermaLink="false">https://ahacad.cool/Developing/express-sourcecode-breakup/</guid><pubDate>Tue, 13 Apr 2021 15:53:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[经典算法题]]></title><description><![CDATA[经典算法题，也就是那些你睡觉突然被叫醒来做这道题也可以立刻做出来的题目。不少用了
+of.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Express 源码分析]]></title><link>https://ahacad.cool/developing/express-sourcecode-breakup/</link><guid isPermaLink="false">https://ahacad.cool/developing/express-sourcecode-breakup/</guid><pubDate>Tue, 13 Apr 2021 15:53:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[经典算法题]]></title><description><![CDATA[经典算法题，也就是那些你睡觉突然被叫醒来做这道题也可以立刻做出来的题目。不少用了
 leetcode，“大神”们可能觉得太 low 了配不上 ACM
 的名号，但是作为基础训练我认为 leetcode…]]></description><link>https://ahacad.cool/ACM/classical-problems/</link><guid isPermaLink="false">https://ahacad.cool/ACM/classical-problems/</guid><pubDate>Sun, 11 Apr 2021 23:18:09 GMT</pubDate><content:encoded>&lt;p&gt;经典算法题，也就是那些你睡觉突然被叫醒来做这道题也可以立刻做出来的题目。不少用了
 leetcode，“大神”们可能觉得太 low 了配不上 ACM
 的名号，但是作为基础训练我认为 leetcode 是不错的平台&lt;/p&gt;
 &lt;h4&gt;二分&lt;/h4&gt;
 &lt;p&gt;我知道你会想：“二分我还不会写！？”
-然而你可能真的不会，二分虽然思想很简单但是边界处理上还是有不少魔鬼细节的，这篇文章总结的比较全面
+然而你可能真的不会，二分虽然思想很简单但是边界处理上还是有不少魔鬼细节的，实际开发中用的也非常多（各种场景），这篇文章总结的比较全面
 &lt;a href=&quot;https://www.cnblogs.com/kyoner/p/11080078.html&quot;&gt;详解二分查找算法&lt;/a&gt;
 。当然标准库 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;algorithm&amp;gt;&lt;/code&gt; 里面已经包含了 &lt;code class=&quot;language-text&quot;&gt;std::binary_search&lt;/code&gt;,
 &lt;code class=&quot;language-text&quot;&gt;std::upper_bound&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;std::lower_bound&lt;/code&gt;
@@ -249,29 +346,33 @@ pacman -Sg abc                  #查询abc这个包组包含的软件包&lt;/p&g
 &lt;p&gt;登录上服务器，建立目录 &lt;code class=&quot;language-text&quot;&gt;~/.ssh&lt;/code&gt;，把自己电脑上生成的公钥 &lt;code class=&quot;language-text&quot;&gt;~/.ssh/id_rsa.pub&lt;/code&gt;
 复制到服务器上 &lt;code class=&quot;language-text&quot;&gt;~/.ssh/authorized_keys&lt;/code&gt;
 即可，或者使用如下命令（意思是一样的）:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;cat&lt;/span&gt; .ssh/id_rsa.pub &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;ssh&lt;/span&gt; user@server &lt;span class=&quot;token string&quot;&gt;&apos;cat &gt;&gt; .ssh/authorized_keys&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/awk-sed/</link><guid isPermaLink="false">https://ahacad.cool/linux/awk-sed/</guid><pubDate>Thu, 01 Apr 2021 11:07:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/Developing/WIPtesting-node-program/</link><guid isPermaLink="false">https://ahacad.cool/Developing/WIPtesting-node-program/</guid><pubDate>Wed, 31 Mar 2021 15:50:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[阅读的生命周期]]></title><description><![CDATA[（本文专门讨论信息密度较大的非虚构类书籍，纯文学类不在讨论范围内） 打开一本书，读，合上。我记住了什么？我为何要读书？ 阅读是如此寻常的一个动作以至于我们不把他当一回事， 阅读又是如此不寻常的一件事。 阅读的生命周期，]]></description><link>https://ahacad.cool/thoughts/the-life-cycle-of-reading/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/the-life-cycle-of-reading/</guid><pubDate>Tue, 30 Mar 2021 23:35:29 GMT</pubDate><content:encoded>&lt;p&gt;（本文专门讨论信息密度较大的非虚构类书籍，纯文学类不在讨论范围内）&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;cat&lt;/span&gt; .ssh/id_rsa.pub &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;ssh&lt;/span&gt; user@server &lt;span class=&quot;token string&quot;&gt;&apos;cat &gt;&gt; .ssh/authorized_keys&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/awk-sed/</link><guid isPermaLink="false">https://ahacad.cool/linux/awk-sed/</guid><pubDate>Thu, 01 Apr 2021 11:07:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/developing/WIPtesting-node-program/</link><guid isPermaLink="false">https://ahacad.cool/developing/WIPtesting-node-program/</guid><pubDate>Wed, 31 Mar 2021 15:50:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[阅读的生命周期]]></title><description><![CDATA[（本文专门讨论信息密度较大的非虚构类书籍，纯文学类不在讨论范围内） 打开一本书，读，合上。我记住了什么？我为何要读书？ 阅读是如此寻常的一个动作以至于我们不把他当一回事， 阅读又是如此不寻常的一件事。 阅读的生命周期，]]></description><link>https://ahacad.cool/thoughts/the-life-cycle-of-reading/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/the-life-cycle-of-reading/</guid><pubDate>Tue, 30 Mar 2021 23:35:29 GMT</pubDate><content:encoded>&lt;p&gt;（本文专门讨论信息密度较大的非虚构类书籍，纯文学类不在讨论范围内）&lt;/p&gt;
 &lt;p&gt;打开一本书，读，合上。我记住了什么？我为何要读书？&lt;/p&gt;
 &lt;p&gt;阅读是如此寻常的一个动作以至于我们不把他当一回事，&lt;/p&gt;
 &lt;p&gt;阅读又是如此不寻常的一件事。&lt;/p&gt;
 &lt;p&gt;阅读的生命周期，&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[How to prove that a language is not regular]]></description><link>https://ahacad.cool/TCS/computability-theory/</link><guid isPermaLink="false">https://ahacad.cool/TCS/computability-theory/</guid><pubDate>Tue, 30 Mar 2021 16:04:24 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://cs.stackexchange.com/questions/1031/how-to-prove-that-a-language-is-not-regular&quot;&gt;How to prove that a language is not regular&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[来写一个 CLI 软件]]></title><description><![CDATA[Parser commander.js 更漂亮的输出: chalk: 命令行输出时带上颜色 boxen: 命令行输出时带上边框 (box) ora: 加载时的旋转条 listr: 显示一条条 todos 框架: ink: 用 react 写 cli]]></description><link>https://ahacad.cool/Developing/WIPwrite-a-cli/</link><guid isPermaLink="false">https://ahacad.cool/Developing/WIPwrite-a-cli/</guid><pubDate>Tue, 30 Mar 2021 09:46:52 GMT</pubDate><content:encoded>&lt;h6&gt;Parser&lt;/h6&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[来写一个 CLI 软件]]></title><description><![CDATA[Parser commander.js yargs 更漂亮的输出: chalk: 命令行输出时带上颜色 kolorist: 同样是带上颜色 boxen: 命令行输出时带上边框 (box) ora: 加载时的旋转条 prompts: 交互选项 listr: 显示一条条 todos…]]></description><link>https://ahacad.cool/developing/WIPwrite-a-cli/</link><guid isPermaLink="false">https://ahacad.cool/developing/WIPwrite-a-cli/</guid><pubDate>Tue, 30 Mar 2021 09:46:52 GMT</pubDate><content:encoded>&lt;h6&gt;Parser&lt;/h6&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/tj/commander.js#readme&quot;&gt;commander.js&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/tj/commander.js#readme&quot;&gt;commander.js&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/yargs/yargs&quot;&gt;yargs&lt;/a&gt;&lt;/p&gt;
 &lt;h6&gt;更漂亮的输出:&lt;/h6&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/chalk/chalk&quot;&gt;chalk&lt;/a&gt;: 命令行输出时带上颜色&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/marvinhagemeister/kolorist&quot;&gt;kolorist&lt;/a&gt;: 同样是带上颜色&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/boxen#readme&quot;&gt;boxen&lt;/a&gt;: 命令行输出时带上边框 (box)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/ora#readme&quot;&gt;ora&lt;/a&gt;: 加载时的旋转条&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/terkelg/prompts#readme&quot;&gt;prompts&lt;/a&gt;: 交互选项&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/SamVerschueren/listr#readme&quot;&gt;listr&lt;/a&gt;: 显示一条条 todos&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/SamVerschueren/listr#readme&quot;&gt;listr&lt;/a&gt;: 显示一条条 todos&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/AndiDittrich/Node.CLI-Progress&quot;&gt;cli-progress&lt;/a&gt;: 进度条&lt;/p&gt;
 &lt;h6&gt;框架:&lt;/h6&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/vadimdemedes/ink#readme&quot;&gt;ink&lt;/a&gt;: 用 react 写 cli&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[记录一些 react 常用但是没有写下的操作 (WIP)]]></title><description><![CDATA[import json]]></description><link>https://ahacad.cool/Developing/react-pitfalls/</link><guid isPermaLink="false">https://ahacad.cool/Developing/react-pitfalls/</guid><pubDate>Mon, 29 Mar 2021 19:41:39 GMT</pubDate><content:encoded>&lt;h5&gt;import json&lt;/h5&gt;</content:encoded></item><item><title><![CDATA[写一个 Slack Bot]]></title><description><![CDATA[在目前见到的软件中，Slack 可以说是相当开放的一个了，有完备的 api 文档，并且指导怎么去写 bots。但是官方文档实在是有点长，这篇 Post 从零上手写一个 slack bot，稍稍熟悉一下。 1. 注册 app 为了能够用上 slack 的 api 需要先注册 App…]]></description><link>https://ahacad.cool/Developing/WIPwriting-a-slack-bot/</link><guid isPermaLink="false">https://ahacad.cool/Developing/WIPwriting-a-slack-bot/</guid><pubDate>Mon, 29 Mar 2021 16:28:28 GMT</pubDate><content:encoded>&lt;p&gt;在目前见到的软件中，Slack 可以说是相当开放的一个了，有完备的 api 文档，并且指导怎么去写 bots。但是官方文档实在是有点长，这篇 Post 从零上手写一个 slack bot，稍稍熟悉一下。&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[记录一些 react 常用但是没有写下的操作 (WIP)]]></title><description><![CDATA[import json]]></description><link>https://ahacad.cool/developing/react-pitfalls/</link><guid isPermaLink="false">https://ahacad.cool/developing/react-pitfalls/</guid><pubDate>Mon, 29 Mar 2021 19:41:39 GMT</pubDate><content:encoded>&lt;h5&gt;import json&lt;/h5&gt;</content:encoded></item><item><title><![CDATA[写一个 Slack Bot]]></title><description><![CDATA[在目前见到的软件中，Slack 可以说是相当开放的一个了，有完备的 api 文档，并且指导怎么去写 bots。但是官方文档实在是有点长，这篇 Post 从零上手写一个 slack bot，稍稍熟悉一下。 1. 注册 app 为了能够用上 slack 的 api 需要先注册 App…]]></description><link>https://ahacad.cool/developing/WIPwriting-a-slack-bot/</link><guid isPermaLink="false">https://ahacad.cool/developing/WIPwriting-a-slack-bot/</guid><pubDate>Mon, 29 Mar 2021 16:28:28 GMT</pubDate><content:encoded>&lt;p&gt;在目前见到的软件中，Slack 可以说是相当开放的一个了，有完备的 api 文档，并且指导怎么去写 bots。但是官方文档实在是有点长，这篇 Post 从零上手写一个 slack bot，稍稍熟悉一下。&lt;/p&gt;
 &lt;h3&gt;1. 注册 app&lt;/h3&gt;
-&lt;p&gt;为了能够用上 slack 的 api 需要先注册 &lt;a href=&quot;https://api.slack.com/apps&quot;&gt;App&lt;/a&gt;，获得 auth token。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Postgresql 常用命令整理]]></title><description><![CDATA[参考 Postgresql Arch wiki 安装好数据库。]]></description><link>https://ahacad.cool/Developing/using-postgresql/</link><guid isPermaLink="false">https://ahacad.cool/Developing/using-postgresql/</guid><pubDate>Sun, 28 Mar 2021 17:10:47 GMT</pubDate><content:encoded>&lt;p&gt;参考 &lt;a href=&quot;https://wiki.archlinux.org/index.php/PostgreSQL&quot;&gt;Postgresql Arch wiki&lt;/a&gt; 安装好数据库。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Docker 常用方法整理一下 (WIP)]]></title><description><![CDATA[记录一下 Docker 的常用命令，本页面时常更新。 打包 为 Nodejs 写一个 Dockerfile: 然后来优化它: 转用 alpine…]]></description><link>https://ahacad.cool/Developing/using-docker/</link><guid isPermaLink="false">https://ahacad.cool/Developing/using-docker/</guid><pubDate>Sun, 28 Mar 2021 16:13:46 GMT</pubDate><content:encoded>&lt;p&gt;记录一下 Docker 的常用命令，本页面时常更新。&lt;/p&gt;
+&lt;p&gt;为了能够用上 slack 的 api 需要先注册 &lt;a href=&quot;https://api.slack.com/apps&quot;&gt;App&lt;/a&gt;，获得 auth token。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Postgresql 常用命令整理]]></title><description><![CDATA[参考 Postgresql Arch wiki 安装好数据库。]]></description><link>https://ahacad.cool/developing/using-postgresql/</link><guid isPermaLink="false">https://ahacad.cool/developing/using-postgresql/</guid><pubDate>Sun, 28 Mar 2021 17:10:47 GMT</pubDate><content:encoded>&lt;p&gt;参考 &lt;a href=&quot;https://wiki.archlinux.org/index.php/PostgreSQL&quot;&gt;Postgresql Arch wiki&lt;/a&gt; 安装好数据库。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Docker 常用方法整理一下 (WIP)]]></title><description><![CDATA[记录一下 Docker 的常用命令，本页面时常更新。 打包 为 Nodejs 写一个 Dockerfile: 然后来优化它: 转用 alpine…]]></description><link>https://ahacad.cool/developing/using-docker/</link><guid isPermaLink="false">https://ahacad.cool/developing/using-docker/</guid><pubDate>Sun, 28 Mar 2021 16:13:46 GMT</pubDate><content:encoded>&lt;p&gt;记录一下 Docker 的常用命令，本页面时常更新。&lt;/p&gt;
 &lt;h3&gt;打包&lt;/h3&gt;
 &lt;p&gt;为 Nodejs 写一个 Dockerfile:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;dockerfile&quot;&gt;&lt;pre class=&quot;language-dockerfile&quot;&gt;&lt;code class=&quot;language-dockerfile&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# 基镜像&lt;/span&gt;
@@ -311,13 +412,10 @@ pacman -Sg abc                  #查询abc这个包组包含的软件包&lt;/p&g
 &lt;p&gt;删除已经退出的镜像:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;docker container prune&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;或者使用 bash:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;docker &lt;span class=&quot;token function&quot;&gt;ps&lt;/span&gt; --filter &lt;span class=&quot;token string&quot;&gt;&quot;status=exited&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;grep&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;weeks ago&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;awk&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;{print &lt;span class=&quot;token variable&quot;&gt;$1&lt;/span&gt;}&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;xargs&lt;/span&gt; --no-run-if-empty docker &lt;span class=&quot;token function&quot;&gt;rm&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[A demo project]]></title><description><![CDATA[一起来写一个 demo 的小项目，  前后端都有。 How to fetch data with react hooks]]></description><link>https://ahacad.cool/Developing/write-a-demo-project/</link><guid isPermaLink="false">https://ahacad.cool/Developing/write-a-demo-project/</guid><pubDate>Fri, 26 Mar 2021 19:35:47 GMT</pubDate><content:encoded>&lt;p&gt;一起来写一个 demo 的小项目， &lt;code class=&quot;language-text&quot;&gt;express + react + prostgresql&lt;/code&gt; 前后端都有。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.robinwieruch.de/react-hooks-fetch-data&quot;&gt;How to fetch data with react hooks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[IO 相关知识总结]]></title><link>https://ahacad.cool/Developing/io-things/</link><guid isPermaLink="false">https://ahacad.cool/Developing/io-things/</guid><pubDate>Thu, 25 Mar 2021 22:44:11 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[土生土长大陆人隔岸开户]]></title><description><![CDATA[| --        | --               | -- | -- |
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;docker &lt;span class=&quot;token function&quot;&gt;ps&lt;/span&gt; --filter &lt;span class=&quot;token string&quot;&gt;&quot;status=exited&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;grep&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;weeks ago&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;awk&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;{print &lt;span class=&quot;token variable&quot;&gt;$1&lt;/span&gt;}&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;xargs&lt;/span&gt; --no-run-if-empty docker &lt;span class=&quot;token function&quot;&gt;rm&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[IO 相关知识总结]]></title><link>https://ahacad.cool/developing/io-things/</link><guid isPermaLink="false">https://ahacad.cool/developing/io-things/</guid><pubDate>Thu, 25 Mar 2021 22:44:11 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[土生土长大陆人隔岸开户]]></title><description><![CDATA[| --        | --               | -- | -- |
 | Singapore | DBS              |    |    |
 | Singapore | OCBC             |    |    |
-| Singapore…]]></description><link>https://ahacad.cool/Investment/open-accounts-abroad/</link><guid isPermaLink="false">https://ahacad.cool/Investment/open-accounts-abroad/</guid><pubDate>Thu, 25 Mar 2021 20:43:53 GMT</pubDate><content:encoded>&lt;p&gt;| --        | --               | -- | -- |
+| Singapore…]]></description><link>https://ahacad.cool/investment/open-accounts-abroad/</link><guid isPermaLink="false">https://ahacad.cool/investment/open-accounts-abroad/</guid><pubDate>Thu, 25 Mar 2021 20:43:53 GMT</pubDate><content:encoded>&lt;p&gt;| --        | --               | -- | -- |
 | Singapore | DBS              |    |    |
 | Singapore | OCBC             |    |    |
 | Singapore | UOB              |    |    |
@@ -326,6 +424,7 @@ pacman -Sg abc                  #查询abc这个包组包含的软件包&lt;/p&g
 &lt;p&gt;但是！在用了 vim -&gt; neovim 约莫两年后，配了几十个插件后，我还是发现自己竟然平时只使用一些及其常见的操作(&quot;w&quot;, &quot;q&quot;, &quot;a&quot;, &quot;i&quot;, etc. 差不多就是入门时候学得)，完全没有发挥出 vim 的能力。特此重新学习，释放 vim (neovim) 的威力。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;基础复习&lt;/h3&gt;
+&lt;p&gt;这篇文章重点不是基础，只稍微讲讲，具体可以参考 &lt;a href=&quot;https://missing.csail.mit.edu/2020/editors/&quot;&gt;MIT Missing semester: Vim&lt;/a&gt;, 这个 &lt;a href=&quot;https://www.bilibili.com/video/BV164411P7tw&quot;&gt;up 主的视频: theniceboy&lt;/a&gt;，以及自带的 vimtutor。&lt;/p&gt;
 &lt;h3&gt;重学 vim&lt;/h3&gt;
 &lt;h5&gt;调整本行在屏幕中的位置&lt;/h5&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;zz&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 将光标所在行拉到屏幕中央，以显示上下文
@@ -335,6 +434,7 @@ zb&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 将光标所在
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;``&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 回跳到上一次的位置 &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;Vim 中称为 &lt;span class=&quot;token keyword&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 非本行内的跳跃产生 &lt;span class=&quot;token keyword&quot;&gt;mark&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;，比如使用 G 跳到底部，再用 `` 可以在两点之间会跳
 CTRL&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;O&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 回跳到上一个 &lt;span class=&quot;token keyword&quot;&gt;mark&lt;/span&gt;
 CTRL&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;I&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 跳到下一个 &lt;span class=&quot;token keyword&quot;&gt;mark&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 在括号之间来回跳跃，这样可以快速找到一个函数的末尾&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h5&gt;marks:&lt;/h5&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;a&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;z&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 创建一个 &lt;span class=&quot;token keyword&quot;&gt;mark&lt;/span&gt;
 `&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;a&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;z&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 跳到 &lt;span class=&quot;token keyword&quot;&gt;mark&lt;/span&gt;
@@ -602,7 +702,7 @@ TODO: prettier for c++&lt;/p&gt;
 &lt;/table&gt;
 &lt;h3&gt;Polybar&lt;/h3&gt;
 &lt;p&gt;对于一个 WM，其灵魂之一就是一个好的 bar 了，来自普通桌面环境的你可能&lt;/p&gt;
-&lt;h3&gt;Reference&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[Arch Linux 安装 mysql]]></title><description><![CDATA[之前跑的都是 postgresql，现在上了 mysql，本来以为 pacman 一下就好了，结果报错了。Debug 过程主要就是  然后不停看报错信息搜寻解决方案。]]></description><link>https://ahacad.cool/Developing/install-mysql-on-arch-linux/</link><guid isPermaLink="false">https://ahacad.cool/Developing/install-mysql-on-arch-linux/</guid><pubDate>Fri, 05 Mar 2021 16:35:43 GMT</pubDate><content:encoded>&lt;p&gt;之前跑的都是 postgresql，现在上了 mysql，本来以为 pacman 一下就好了，结果报错了。Debug 过程主要就是 &lt;code class=&quot;language-text&quot;&gt;systemctl status mysql&lt;/code&gt; 然后不停看报错信息搜寻解决方案。 &lt;/p&gt;</content:encoded></item><item><title><![CDATA[学习 JavaScript 历程]]></title><description><![CDATA[不同语言之间的差别很大！ 函数是一等公民 JavaScript 三大支柱 Ref: 28 个JavaScript编程黑科技，装逼指南，高逼格代码，让你惊叹不已 怎么样才算是精通 JavaScript？ 如何衡量一个人的 JavaScript 水平？]]></description><link>https://ahacad.cool/Frontend/learn-JavaScript/</link><guid isPermaLink="false">https://ahacad.cool/Frontend/learn-JavaScript/</guid><pubDate>Thu, 04 Mar 2021 20:49:53 GMT</pubDate><content:encoded>&lt;p&gt;不同语言之间的差别很大！&lt;/p&gt;
+&lt;h3&gt;Reference&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[Arch Linux 安装 mysql]]></title><description><![CDATA[之前跑的都是 postgresql，现在上了 mysql，本来以为 pacman 一下就好了，结果报错了。Debug 过程主要就是  然后不停看报错信息搜寻解决方案。]]></description><link>https://ahacad.cool/developing/install-mysql-on-arch-linux/</link><guid isPermaLink="false">https://ahacad.cool/developing/install-mysql-on-arch-linux/</guid><pubDate>Fri, 05 Mar 2021 16:35:43 GMT</pubDate><content:encoded>&lt;p&gt;之前跑的都是 postgresql，现在上了 mysql，本来以为 pacman 一下就好了，结果报错了。Debug 过程主要就是 &lt;code class=&quot;language-text&quot;&gt;systemctl status mysql&lt;/code&gt; 然后不停看报错信息搜寻解决方案。 &lt;/p&gt;</content:encoded></item><item><title><![CDATA[学习 JavaScript 历程]]></title><description><![CDATA[不同语言之间的差别很大！ 函数是一等公民 JavaScript 三大支柱 Ref: 28 个JavaScript编程黑科技，装逼指南，高逼格代码，让你惊叹不已 怎么样才算是精通 JavaScript？ 如何衡量一个人的 JavaScript 水平？]]></description><link>https://ahacad.cool/Frontend/learn-JavaScript/</link><guid isPermaLink="false">https://ahacad.cool/Frontend/learn-JavaScript/</guid><pubDate>Thu, 04 Mar 2021 20:49:53 GMT</pubDate><content:encoded>&lt;p&gt;不同语言之间的差别很大！&lt;/p&gt;
 &lt;p&gt;函数是一等公民&lt;/p&gt;
 &lt;p&gt;JavaScript 三大支柱&lt;/p&gt;
 &lt;p&gt;Ref:&lt;/p&gt;
@@ -624,11 +724,11 @@ TODO: prettier for c++&lt;/p&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[命令行下的工具]]></title><description><![CDATA[这篇文章来写一些命令行下自己使用的工具，一个有意思的点是各种上古神器逐渐用新语言重写，其中 rust 写的工具相当顺手好用、且执行效率极高。]]></description><link>https://ahacad.cool/linux/terminal-tools/</link><guid isPermaLink="false">https://ahacad.cool/linux/terminal-tools/</guid><pubDate>Thu, 18 Feb 2021 22:08:36 GMT</pubDate><content:encoded>&lt;p&gt;这篇文章来写一些命令行下自己使用的工具，一个有意思的点是各种上古神器逐渐用新语言重写，其中 rust 写的工具相当顺手好用、且执行效率极高。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[整理一下用到的 vim 插件]]></title><description><![CDATA[现代版的 neovim 支持了 coc 驱动的 LSP 从而有了浮窗提示，并且可以使用 TypeScript 编写插件（实际上啥语言都可以，但是 TS 正好和 VS Code 兼容），把 neovim 打造成 IDE 绝对是可行的（并且我正在这么做着）。有人会说 IDE…]]></description><link>https://ahacad.cool/linux/vim-plugins/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-plugins/</guid><pubDate>Thu, 18 Feb 2021 21:17:37 GMT</pubDate><content:encoded>&lt;p&gt;现代版的 neovim 支持了 coc 驱动的 LSP 从而有了浮窗提示，并且可以使用 TypeScript 编写插件（实际上啥语言都可以，但是 TS 正好和 VS Code 兼容），把 neovim 打造成 IDE 绝对是可行的（并且我正在这么做着）。有人会说 IDE 就交给 IDE，折腾这干啥，然而我想说，即使 VSCode 支持 vim 模式，实际体验还是和 vim 完全比不了的，后者使用的时候真的可以做到双手不离开键盘；而为了尽可能保留原生 vim 体验，我的普通 vim 只配备了一些基本的插件，neovim 在配置后则像是重型战车，配置出来足以满足开发需求。&lt;/p&gt;
 &lt;p&gt;这篇文章整理一下我用到的插件，梳理一下自己的思路，去掉一些冗余的，深入挖掘一些感兴趣的，分享给各位朋友。&lt;/p&gt;
 &lt;p&gt;后来我逐渐发现了 VSCode 的优点&lt;/p&gt;
-&lt;h3&gt;&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[让信息来找你]]></title><link>https://ahacad.cool/thoughts/let-news-find-you/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/let-news-find-you/</guid><pubDate>Thu, 18 Feb 2021 18:16:13 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[前端书籍总结]]></title><description><![CDATA[Secrets of the JavaScript Ninja: 四百页中等书籍，要讲的基本都讲得相当透彻，配图很精彩 目前看来最值得读的是 You Don't Know JS, Secrets of the JavaScript Ninja 和 Professional…]]></description><link>https://ahacad.cool/Developing/frontend-books/</link><guid isPermaLink="false">https://ahacad.cool/Developing/frontend-books/</guid><pubDate>Thu, 18 Feb 2021 14:52:53 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;h3&gt;&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[让信息来找你]]></title><link>https://ahacad.cool/thoughts/let-news-find-you/</link><guid isPermaLink="false">https://ahacad.cool/thoughts/let-news-find-you/</guid><pubDate>Thu, 18 Feb 2021 18:16:13 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[前端书籍总结]]></title><description><![CDATA[Secrets of the JavaScript Ninja: 四百页中等书籍，要讲的基本都讲得相当透彻，配图很精彩 目前看来最值得读的是 You Don't Know JS, Secrets of the JavaScript Ninja 和 Professional…]]></description><link>https://ahacad.cool/developing/frontend-books/</link><guid isPermaLink="false">https://ahacad.cool/developing/frontend-books/</guid><pubDate>Thu, 18 Feb 2021 14:52:53 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;Secrets of the JavaScript Ninja: 四百页中等书籍，要讲的基本都讲得相当透彻，配图很精彩&lt;/li&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;目前看来最值得读的是 You Don&apos;t Know JS, Secrets of the JavaScript Ninja 和 Professional JavaScript for Web Developers.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[达夫设备 (Duff Device)]]></title><description><![CDATA[奇技淫巧]]></description><link>https://ahacad.cool/Developing/duff-device/</link><guid isPermaLink="false">https://ahacad.cool/Developing/duff-device/</guid><pubDate>Wed, 17 Feb 2021 21:30:02 GMT</pubDate><content:encoded>&lt;p&gt;奇技淫巧&lt;/p&gt;</content:encoded></item><item><title><![CDATA[前端面试复习]]></title><description><![CDATA[最近准备面试，开始认真复习（学习）前端，越发发现其实基础才是最重要的，一些经典的书籍（比如小眼镜）一定要好好读掉，之后再去看文章或者文档就会有一股通透感。这一点在读 Vue 文档的时候深有体会，一开始当然也能读懂、模仿，但是深层次的连接没有很难融会贯通，但是好好学了 JS…]]></description><link>https://ahacad.cool/Frontend/frontend-interview/</link><guid isPermaLink="false">https://ahacad.cool/Frontend/frontend-interview/</guid><pubDate>Tue, 16 Feb 2021 11:53:36 GMT</pubDate><content:encoded>&lt;p&gt;最近准备面试，开始认真复习（学习）前端，越发发现其实基础才是最重要的，一些经典的书籍（比如小眼镜）一定要好好读掉，之后再去看文章或者文档就会有一股通透感。这一点在读 Vue 文档的时候深有体会，一开始当然也能读懂、模仿，但是深层次的连接没有很难融会贯通，但是好好学了 JS 后，文档里写出来的没写出来的都可以看出来，感触比起之前强了太多。&lt;/p&gt;
+&lt;p&gt;目前看来最值得读的是 You Don&apos;t Know JS, Secrets of the JavaScript Ninja 和 Professional JavaScript for Web Developers.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[达夫设备 (Duff Device)]]></title><description><![CDATA[奇技淫巧]]></description><link>https://ahacad.cool/developing/duff-device/</link><guid isPermaLink="false">https://ahacad.cool/developing/duff-device/</guid><pubDate>Wed, 17 Feb 2021 21:30:02 GMT</pubDate><content:encoded>&lt;p&gt;奇技淫巧&lt;/p&gt;</content:encoded></item><item><title><![CDATA[前端面试复习]]></title><description><![CDATA[最近准备面试，开始认真复习（学习）前端，越发发现其实基础才是最重要的，一些经典的书籍（比如小眼镜）一定要好好读掉，之后再去看文章或者文档就会有一股通透感。这一点在读 Vue 文档的时候深有体会，一开始当然也能读懂、模仿，但是深层次的连接没有很难融会贯通，但是好好学了 JS…]]></description><link>https://ahacad.cool/Frontend/frontend-interview/</link><guid isPermaLink="false">https://ahacad.cool/Frontend/frontend-interview/</guid><pubDate>Tue, 16 Feb 2021 11:53:36 GMT</pubDate><content:encoded>&lt;p&gt;最近准备面试，开始认真复习（学习）前端，越发发现其实基础才是最重要的，一些经典的书籍（比如小眼镜）一定要好好读掉，之后再去看文章或者文档就会有一股通透感。这一点在读 Vue 文档的时候深有体会，一开始当然也能读懂、模仿，但是深层次的连接没有很难融会贯通，但是好好学了 JS 后，文档里写出来的没写出来的都可以看出来，感触比起之前强了太多。&lt;/p&gt;
 &lt;p&gt;过程中也读了不少文章，整理在下面，还是强调，首先把一些经典书籍读掉、建立好知识框架了读起文章了效果会好很多！&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.cnblogs.com/mengff/p/9656486.html&quot;&gt;ES6 箭头函数总结&lt;/a&gt;&lt;/li&gt;
@@ -745,11 +845,46 @@ tier 2: GIKA&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item>
 – Project Management&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;看到了谷歌这个十个等级的自我评测卡，感触颇深。之前自己犯了不少错误，也做了一些正确的事情，但是基本都可以在这张卡里面得到概括。&lt;/p&gt;
-&lt;p&gt;我是一个兴趣广泛的人，真的非常广泛，我仔细学过的专业，从物理到哲学到文学到音乐到绘画到管理到医学到工程，这很好、也很糟糕。糟糕的是，我的精力太过分散，大多数方面可能甚至都不了 2 级，需要相对较多投入的 4 级更是别提。我想说，一个正常的大学教育，把你带到 2 就不错了，大多数水课可能连 1 都没有（当然这是因为许多老师自己不过 34 的水平），但这是非常糟糕的，如果你真心喜欢并且愿意钻研一项事情、指导你的人却只给你提供 34 的资源、可能甚至有反作用。&lt;/p&gt;
+&lt;p&gt;我是一个兴趣广泛的人，真的非常广泛，我仔细学过的专业，从物理到哲学到文学到音乐到绘画到管理到医学到工程，这很好、也很糟糕。糟糕的是，我的精力太过分散，大多数方面可能甚至都不了
+2 级，需要相对较多投入的 4 级更是别提。我想说，一个正常的大学教育，把你带到 2
+就不错了，大多数水课可能连 1 都没有（当然这是因为一些老师自己也不过 34 的水平），但这是非常糟糕的，如果你真心喜欢并且愿意钻研一项事情、指导你的人却只给你提供 34 的资源、可能甚至有反作用。&lt;/p&gt;
 &lt;p&gt;自学是&lt;/p&gt;
 &lt;p&gt;对于许多事情，向 34 或更高直接学习可以帮助你快速达到 2 的水平，超过周围许多人，这样的小技能多了可以形成巨大的累加优势，不仅开阔了视野，而且将来有机会深入学习的时候更可能在竞争中获得资源，继续走向更高的水平（我称其为造 api）。&lt;/p&gt;
 &lt;p&gt;但是如果你一个 4 都没有的话，将是非常恐怖的事情，如果没有铁饭碗的话（在未来社会几乎不可能有这种东西）甚至会难以生存。好高骛远的人可能就会这样。&lt;/p&gt;
-&lt;p&gt;所以建议是，对于你在乎的许多事情，做到 4，对于几个要专精的东西，不断做下去越高越好，同时向懂行者学习、在许多方面快速达到 23。&lt;/p&gt;</content:encoded></item><item><title><![CDATA['Ghost' in the 'shell']]></title><description><![CDATA[Introduction 无论是否看过黑客帝国，你一定或多或少对“黑客”有所希冀，想象之中的他们是戴着黑兜帽和 V…]]></description><link>https://ahacad.cool/ghost-in-the-shell/</link><guid isPermaLink="false">https://ahacad.cool/ghost-in-the-shell/</guid><pubDate>Wed, 25 Nov 2020 19:41:36 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;所以建议是，对于你在乎的许多事情，做到 4，对于几个要专精的东西，不断做下去越高越好，同时向懂行者学习、在许多方面快速达到 23。&lt;/p&gt;
+&lt;h3&gt;Appendix&lt;/h3&gt;
+&lt;p&gt;English: &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;0&quot;&gt;
+&lt;li&gt;you are unfamiliar with the subject area.&lt;/li&gt;
+&lt;li&gt;you can read / understand the most fundamental aspects of the subject area.&lt;/li&gt;
+&lt;li&gt;ability to implement small changes, understand basic principles and able to figure out additional details with
+minimal help.&lt;/li&gt;
+&lt;li&gt;basic proficiency in a subject area without relying on help.&lt;/li&gt;
+&lt;li&gt;you are comfortable with the subject area and all routine work on it:&lt;br&gt;
+. For software areas - ability to develop medium programs using all basic language features w/o book,
+awareness of more esoteric features (with book)&lt;br&gt;
+. For systems areas - understanding of many fundamentals of networking and systems administration,
+ability to run a small network of systems including recovery, debugging and nontrivial troubleshooting
+that relies on the knowledge of internals.&lt;/li&gt;
+&lt;li&gt;an even lower degree of reliance on reference materials. Deeper skills in a field or specific technology
+in the subject area.&lt;/li&gt;
+&lt;li&gt;ability to develop large programs and systems from scratch. Understanding of low level details and internals.
+Ability to design / deploy most large, distributed systems from scratch.&lt;/li&gt;
+&lt;li&gt;you understand and make use of most lesser known language features, technologies, and associated internals.
+Ability to automate significant amounts of systems administration.&lt;/li&gt;
+&lt;li&gt;deep understanding of corner cases, esoteric features, protocols and systems including &quot;theory of operation&quot;.
+Demonstrated ability to design, deploy and own very critical or large infrastructure, build accompanying
+automation.&lt;/li&gt;
+&lt;li&gt;could have written the book about the subject area but didn&apos;t; works with standards committees on defining
+new standards and methodologies.&lt;/li&gt;
+&lt;li&gt;wrote the book on the subject area (there actually has to be a book). Recognized industry expert in the field, might have invented it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;Referenences:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://coolshell.cn/articles/20977.html&quot;&gt;2020.08.07 程序员如何把控自己的职业 陈皓(左耳朵耗子)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA['Ghost' in the 'shell']]></title><description><![CDATA[Introduction 无论是否看过黑客帝国，你一定或多或少对“黑客”有所希冀，想象之中的他们是戴着黑兜帽和 V…]]></description><link>https://ahacad.cool/ghost-in-the-shell/</link><guid isPermaLink="false">https://ahacad.cool/ghost-in-the-shell/</guid><pubDate>Wed, 25 Nov 2020 19:41:36 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;无论是否看过黑客帝国，你一定或多或少对“黑客”有所希冀，想象之中的他们是戴着黑兜帽和 V 字面具，坐在电脑前，疯狂地敲击键盘，过了一会整个城市的电力就瘫痪了……当然，如果你真的让城市的电力瘫痪了、恐怕得进局子，现实中的程序员也有不少还使用着 Windows 和鼠标，成天做着 &lt;code class=&quot;language-text&quot;&gt;Ctrl+c&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;Ctrl+v&lt;/code&gt; 的事情，实在与想象的场景大相径庭。&lt;/p&gt;
 &lt;p&gt;本文不会教你怎么成为一个真正的“黑客”——无论是实际上被曲解的“骇客”还是长久流传的黑客精神，但是本文会让你成为一个更加有效率的电脑使用者。没错，不仅是程序员，任何人都可以从接下来介绍的 terminal tools 受益，即使你不会与工程打交道，让电脑能真正为你工作、而不是你为它工作，是一个现代人必须的能力。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;DO NOT USE WINDOWS!&lt;/strong&gt; 除非为了一些必须的软件，比如 Adobe 旗下的创意工具和一些仅提供 windows 使用的程序，你没有理由使用 Windows，这样一个不尊重你隐私、难以自定义又错漏百出的操作系统，使用 mac，或者 linux。本文介绍的大部分工具都是为 unix 系统而生的(linux &amp;#x26; macintosh 属于其派生)，虽然在 windows 上也能够使用 windows terminal 达到同样的效果，但是体验实在不尽如人意。&lt;/p&gt;
