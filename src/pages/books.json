@@ -583,7 +583,15 @@
     "name": "social capital",
     "author": "Nan Lin",
     "description": "",
-    "image": "2021/social capital.jpg"
+    "image": "2021/social capital.jpg",
+    "readed": false
+  },
+  {
+    "name": "the human networks",
+    "author": "Mathew O. Jackson",
+    "description": "",
+    "image": "2021/the human networks.jpg",
+    "readed": false
   },
   {
     "name": "how to think straight about psychology",

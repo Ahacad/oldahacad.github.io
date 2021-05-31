@@ -15,3 +15,15 @@ published: false
 过程中也读了不少文章，整理在下面，还是强调，首先把一些经典书籍读掉、建立好知识框架了读起文章了效果会好很多！
 
 - [ES6 箭头函数总结](https://www.cnblogs.com/mengff/p/9656486.html)
+
+
+------
+
+- useRef
+- 跨域
+- 进程守护
+- peerdependency
+- 前后端分离的好处
+- 数据库事务
+
+------
