@@ -12,3 +12,5 @@ published: false
 ---
 
 - [aminer](https://www.aminer.cn/): academic network mining
+
+- [罗绍峰科研管理课程](https://study.163.com/course/courseLearn.htm?courseId=348001#/learn/video?lessonId=493041&courseId=348001)
