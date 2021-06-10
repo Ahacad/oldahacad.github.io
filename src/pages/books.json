@@ -48,6 +48,13 @@
     "image": "2021/computer networks a top-down approach.jpg"
   },
   {
+    "name": "computer networks",
+    "author": "Andrew S. Tanenbaum, David J. Wetherall",
+    "description": "",
+    "image": "2021/computer networks.jpg",
+    "readed": false
+  },
+  {
     "name": "compilers: principles, techniques & tools",
     "author": "Aho, Lam, Sethi, Ullman",
     "description": "",
