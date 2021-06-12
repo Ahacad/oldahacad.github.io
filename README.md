@@ -30,3 +30,8 @@ Anticipation: a blog for 10 years at least, so build it smartly.
 ===> learning
 - [ ] understand gatsby-node
 - [ ] dive deep into react
+
+## 重构计划
+- [ ] find a good design (get inspirations)
+- [ ] add more components
+- [ ] implement it
