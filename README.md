@@ -12,9 +12,12 @@ Anticipation: a blog for 10 years at least, so build it smartly.
 
 ## TODOS
 
+
+- [ ] redisign blog: [redisgn](./redesign.md)
 - [ ] migrate to v3
 - [ ] completely refactor blog by learning Gatsby from bottom up
 - [ ] install analytics (maybe Google Analytics)
+- [ ] add .github workflows
 
 - [ ] add finished/counter to books, videos, music
 - [ ] change posts tags style
