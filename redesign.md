@@ -4,6 +4,7 @@ personal blog:
 - https://xcraft.tech/
 - http://gaocegege.com/Blog/
 - https://byvoid.com/zht/
+- https://k4yt3x.com/
 business blog:
 - https://blog.dropbox.com/
 - https://www.helpscout.com/blog/
