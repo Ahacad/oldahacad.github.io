@@ -25,5 +25,7 @@ What do you want the blog to be?
 
 ## TODO
 
-- Google for good blog design
-- awwwwwwads.com
+- [ ] Google for good blog design
+- [ ] awwwwwwads.com
+
+- [ ] redesign for the *folder structure* AND *prelude items* for posts
