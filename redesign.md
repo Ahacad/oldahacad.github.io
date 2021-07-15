@@ -5,6 +5,7 @@ personal blog:
 - http://gaocegege.com/Blog/
 - https://byvoid.com/zht/
 - https://k4yt3x.com/
+- https://ryanlmcintyre.com/
 business blog:
 - https://blog.dropbox.com/
 - https://www.helpscout.com/blog/
@@ -12,6 +13,7 @@ business blog:
 - https://blog.google/
 - https://netflixtechblog.com/
 - https://pixelgrade.com/upstairs/
+- https://toggl.com/
 business homepage:
 - https://www.codastory.com/
 - https://nourisheats.co/eats-treats/
