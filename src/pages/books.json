@@ -48,6 +48,14 @@
     "image": "2021/computer networks a top-down approach.jpg"
   },
   {
+    "name": "the TCP/IP guide",
+    "author": "Charles M. Kozierok",
+    "description": "",
+    "image": "2021/the tcpip guide.jpg",
+    "url": "https://book.douban.com/subject/2129076/",
+    "readed": false
+  },
+  {
     "name": "computer networks",
     "author": "Andrew S. Tanenbaum, David J. Wetherall",
     "description": "",
@@ -321,6 +329,14 @@
     "description": "",
     "image": "2021/react in action.jpg",
     "url": "https://book.douban.com/subject/26997847/",
+    "readed": false
+  },
+  {
+    "name": "react hooks in action",
+    "author": "John Larsen",
+    "description": "",
+    "image": "2021/react hooks in action.jpg",
+    "url": "https://book.douban.com/subject/35149246/",
     "readed": false
   },
   {
@@ -701,6 +717,21 @@
     "image": "2021/atomic habits.jpg",
     "url": "https://book.douban.com/subject/30355759/",
     "readed": false
+  },
+  {
+    "name": "the razor's edge",
+    "author": "W. Somerset Maugham",
+    "description": "",
+    "image": "2021/the razors edge.jpg",
+    "url": "https://book.douban.com/subject/1458363/",
+    "readed": "false"
+  },
+  {
+    "name": "围城",
+    "author": "钱钟书",
+    "description": "",
+    "image": "2021/围城.jpg",
+    "readed": "false"
   },
   {
     "name": "遍地风流",
