@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ahacad's blog]]></title><description><![CDATA[Ahacad's personal blog]]></description><link>https://ahacad.cool</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 15 Jul 2021 12:50:00 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/vim-for-go/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-for-go/</guid><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[design a post card:  reddit douban discourse]]></description><link>https://ahacad.cool/developing/design-a-forum/</link><guid isPermaLink="false">https://ahacad.cool/developing/design-a-forum/</guid><content:encoded>&lt;p&gt;design a post card: &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ahacad's blog]]></title><description><![CDATA[Ahacad's personal blog]]></description><link>https://ahacad.cool</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Jul 2021 09:41:37 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://ahacad.cool/linux/vim-for-go/</link><guid isPermaLink="false">https://ahacad.cool/linux/vim-for-go/</guid><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[design a post card:  reddit douban discourse]]></description><link>https://ahacad.cool/developing/design-a-forum/</link><guid isPermaLink="false">https://ahacad.cool/developing/design-a-forum/</guid><content:encoded>&lt;p&gt;design a post card: &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/&quot;&gt;reddit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://douban.com&quot;&gt;douban&lt;/a&gt;&lt;/li&gt;
@@ -22,7 +22,28 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/question/35931336/answer/799451372&quot;&gt;你写论文时发现了哪些非常神的网站？
 &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[数据库学习综述]]></title><description><![CDATA[方法 搜索 随机整理 课程 UW: CSE 414, intro to data management 文章 morning paper: database techniques that everybody should know]]></description><link>https://ahacad.cool/summaries/WIP-database-learning/</link><guid isPermaLink="false">https://ahacad.cool/summaries/WIP-database-learning/</guid><pubDate>Mon, 17 May 2021 12:27:34 GMT</pubDate><content:encoded>&lt;h3&gt;方法&lt;/h3&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[日本语学习综述]]></title><description><![CDATA[方法 搜索 zhihu.com: 关键词 "" 随机整理 课程 文章]]></description><link>https://ahacad.cool/summaries/Japanese-learning/</link><guid isPermaLink="false">https://ahacad.cool/summaries/Japanese-learning/</guid><pubDate>Mon, 17 May 2021 12:27:34 GMT</pubDate><content:encoded>&lt;h3&gt;方法&lt;/h3&gt;
+&lt;h4&gt;搜索&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;zhihu.com: 关键词 &quot;&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;随机整理&lt;/h4&gt;
+&lt;h3&gt;课程&lt;/h3&gt;
+&lt;h3&gt;文章&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[计算机网络学习综述]]></title><description><![CDATA[方法 搜索 zhihu.com: 关键词 "学习计算机网络" 随机整理 课程 Stanford CS 144 文章 《谈谈网络编程》 1 陈硕, “谈谈网络编程,” 2012.]]></description><link>https://ahacad.cool/summaries/Networks-learning/</link><guid isPermaLink="false">https://ahacad.cool/summaries/Networks-learning/</guid><pubDate>Mon, 17 May 2021 12:27:34 GMT</pubDate><content:encoded>&lt;h3&gt;方法&lt;/h3&gt;
+&lt;h4&gt;搜索&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;zhihu.com: 关键词 &quot;学习计算机网络&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;随机整理&lt;/h4&gt;
+&lt;h3&gt;课程&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; &lt;a href=&quot;https://cs144.github.io/&quot;&gt;Stanford CS 144&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;文章&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;《谈谈网络编程》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[1] 陈硕, “谈谈网络编程,” 2012.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[数据库学习综述]]></title><description><![CDATA[方法 搜索 随机整理 课程 UW: CSE 414, intro to data management 文章 morning paper: database techniques that everybody should know]]></description><link>https://ahacad.cool/summaries/WIP-database-learning/</link><guid isPermaLink="false">https://ahacad.cool/summaries/WIP-database-learning/</guid><pubDate>Mon, 17 May 2021 12:27:34 GMT</pubDate><content:encoded>&lt;h3&gt;方法&lt;/h3&gt;
 &lt;h4&gt;搜索&lt;/h4&gt;
 &lt;h4&gt;随机整理&lt;/h4&gt;
 &lt;h3&gt;课程&lt;/h3&gt;
