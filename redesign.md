@@ -31,3 +31,11 @@ What do you want the blog to be?
 - [ ] awwwwwwads.com
 
 - [ ] redesign for the *folder structure* AND *prelude items* for posts
+- [ ] 
+
+
+
+- 三个 writing 界面:
+  - 深度思考
+  - notes
+  - articles
