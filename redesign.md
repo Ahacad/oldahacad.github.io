@@ -7,6 +7,7 @@ personal blog:
 - https://k4yt3x.com/
 - https://ryanlmcintyre.com/
 - https://brianlovin.com: product designer at GitHub
+- https://www.joshwcomeau.com/: developer, very creative website
 business blog:
 - https://blog.dropbox.com/
 - https://www.helpscout.com/blog/
