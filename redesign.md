@@ -2,10 +2,11 @@
 - [ ] Blog
 personal blog:
 - https://xcraft.tech/
-- http://gaocegege.com/Blog/
-- https://byvoid.com/zht/
+- http://gaocegege.com/Blog: 
+- https://byvoid.com/zht: the THU-graduate Google engineer
 - https://k4yt3x.com/
 - https://ryanlmcintyre.com/
+- https://brianlovin.com: product designer at GitHub
 business blog:
 - https://blog.dropbox.com/
 - https://www.helpscout.com/blog/
