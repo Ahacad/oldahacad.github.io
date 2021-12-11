@@ -6,6 +6,11 @@ personal blog:
 - https://byvoid.com/zht/
 - https://k4yt3x.com/
 - https://ryanlmcintyre.com/
+- https://daisuke.moe/
+- https://onp4.com/@leechlattice
+- https://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/
+- http://moxfive.xyz/
+- 
 business blog:
 - https://blog.dropbox.com/
 - https://www.helpscout.com/blog/
@@ -39,3 +44,5 @@ What do you want the blog to be?
   - 深度思考
   - notes
   - articles
+- n 个额外界面：
+  - books & video & music

@@ -103,6 +103,14 @@
     "readed": true
   },
   {
+    "name": "the go programming language",
+    "author": "Brian W. Kernighan, Alan Donovan",
+    "description": "",
+    "image": "2021/the go programming language.jpg",
+    "url": "https://book.douban.com/subject/26337545/",
+    "readed": false
+  },
+  {
     "name": "structure and interpretation of computer programs",
     "author": "Haroid Abelson, Geraid Jay Sussman",
     "description": "",
